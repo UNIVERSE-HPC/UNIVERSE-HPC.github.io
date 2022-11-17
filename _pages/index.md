@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 # UNIVERSE-HPC
 
 UNIVERSE-HPC will define a training curriculum framework – spanning from undergraduate to continuing professional development level - for Research Software Engineers (RSEs) specializing in high performance computing (HPC).
