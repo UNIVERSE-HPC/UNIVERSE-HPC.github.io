@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: "UNIVERSE-HPC"
+description: "Understanding and Nurturing an Integrated Vision for Education in RSE and HPC"
+github:
+    is_project_page: false
+include:
+    - _pages
