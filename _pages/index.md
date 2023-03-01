@@ -28,8 +28,8 @@ feature_row:
     url: "/about"
     btn_label: "About the project"
     btn_class: "btn--light-outline btn--small"
-  - image_path: /assets/images/fp-team.jpg
-    image_caption: "<small><small>Photo by [Merakist](https://unsplash.com/@merakist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/RxOrX1iW15A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
+  - image_path: /assets/images/fp-hands.jpg
+    image_caption: "<small><small>Photo by [Clay Banks](https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/LjqARJaJotc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
     alt: "The word team"
     title: "Our project team"
     excerpt: "Details of the project team."
