@@ -22,7 +22,7 @@ Carpentries), and Imperial (community building and RSLondon)
     {% if project_team_member.profile_image and project_team_member.profile_image != "" %}
     <img  src="{{ project_team_member.profile_image }}"
     {% else %}
-    <img  src="/assets/images/team/profile_placeholder.png"
+    <img  src="${baseurl}/assets/images/team/profile_placeholder.png"
     {% endif %}
           style="border-radius: 50%;
                  float: left;
