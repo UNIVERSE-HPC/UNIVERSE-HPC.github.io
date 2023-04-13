@@ -135,3 +135,8 @@ defaults:
 #  type: liquid
 #  path: /tags/
 
+# The location to store all the collections - _drafts and _posts
+# need to go in here if being used.
+collections_dir: collections
+collections:
+  - project_team
