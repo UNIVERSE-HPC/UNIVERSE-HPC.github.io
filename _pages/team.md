@@ -20,7 +20,7 @@ Carpentries), and Imperial (community building and RSLondon)
 {% for project_team_member in site.project_team %}
   <div>
     {% if project_team_member.profile_image and project_team_member.profile_image != "" %}
-    <img  src="{{ project_team_member.profile_image }}"
+    <img  src="{{ site.baseurl }}{{ project_team_member.profile_image }}"
     {% else %}
     <img  src="{{ site.baseurl }}/assets/images/team/profile_placeholder.png"
     {% endif %}
