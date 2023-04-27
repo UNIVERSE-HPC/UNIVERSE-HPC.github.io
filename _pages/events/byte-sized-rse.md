@@ -1,7 +1,7 @@
 ---
 layout: single  
 title: Byte-sized RSE
-permalink: /events/byte-sized-rse
+permalink: /events/byte-sized-rse/
 author_profile: false
 sidebar:
   nav: "uhpc_menu"

@@ -1,7 +1,7 @@
 ---
 layout: single  
 title: Privacy Policy & Terms of Use
-permalink: /privacy
+permalink: /privacy/
 author_profile: false
 classes: wide
 sidebar:

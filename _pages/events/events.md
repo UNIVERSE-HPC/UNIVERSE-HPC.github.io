@@ -1,7 +1,7 @@
 ---
 layout: single  
 title: UNIVERSE-HPC Events
-permalink: /events
+permalink: /events/
 author_profile: false
 sidebar:
   nav: "uhpc_menu"

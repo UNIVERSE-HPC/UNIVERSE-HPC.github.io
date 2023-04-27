@@ -1,7 +1,7 @@
 ---
 layout: single  
 title: UNIVERSE-HPC Resources
-permalink: /resources
+permalink: /resources/
 author_profile: false
 sidebar:
   nav: "uhpc_menu"

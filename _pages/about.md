@@ -1,7 +1,7 @@
 ---
 layout: single  
 title: About UNIVERSE-HPC
-permalink: /about
+permalink: /about/
 author_profile: false
 sidebar:
   nav: "uhpc_menu"
