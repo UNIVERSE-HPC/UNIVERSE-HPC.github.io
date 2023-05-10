@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page__content > h3, .page__content > h6 {
+    margin-top: 0;
+}
+
+/* Increase logo size and decrease surrounding padding to retain original header height */
+.site-logo img {
+    max-height: 3rem;
+}
+
+.masthead__inner-wrap {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
