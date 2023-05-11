@@ -1,0 +1,42 @@
+main:
+  - title: "About UNIVERSE-HPC"
+    url: /about/
+  - title: "The Team"
+    url: /team/
+  - title: "Events"
+    url: /events/
+  - title: "Resources"
+    url: /resources/
+  - title: "Privacy Policy & Terms of Use"
+    url: "/privacy/"
+
+uhpc_menu:
+  - title: "Home"
+    url: "/"
+  - title: "About UNIVERSE-HPC"
+    children:
+      - title: "Aims and Objectives"
+        url: "/about/"
+      - title: "The Team"
+        url: "/team/"
+      - title: "About ExCALIBUR"
+        url: "/about/#about-excalibur"
+  
+  - title: "Events"
+    children:
+      - title: "Project Events"
+        url: "/events/"
+      - title: "Byte-sized RSE"
+        url: "/events/byte-sized-rse/"
+
+  - title: "Resources"
+    children:
+      - title: "Case Studies"
+        url: "/resources/case-studies"
+      - title: "Publications"
+        url: "/resources/publications"
+      - title: "Training Material"
+        url: "/resources/training-material"
+
+  - title: "Privacy Policy"
+    url: "/privacy/"
