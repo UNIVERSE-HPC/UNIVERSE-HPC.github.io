@@ -1,5 +1,6 @@
 ---
-layout: single  
+layout: single
+classes: wide
 title: Embedding realistic of research software development in doctoral training
 permalink: /resources/case-studies/oxford-dg-case-study
 author_profile: false
