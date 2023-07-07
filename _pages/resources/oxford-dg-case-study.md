@@ -1,7 +1,7 @@
 ---
 layout: single  
 title: Embedding realistic of research software development in doctoral training
-permalink: /resources/case_studies/oxford_dg_case_study
+permalink: /resources/case-studies/oxford-dg-case-study
 author_profile: false
 sidebar:
   nav: "uhpc_menu"
