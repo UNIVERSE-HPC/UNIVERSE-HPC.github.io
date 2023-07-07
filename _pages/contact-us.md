@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: Contact Us
-permalink: /contact-us
+permalink: /contact-us/
 author_profile: false
 sidebar:
   nav: "uhpc_menu"
