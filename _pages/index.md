@@ -14,8 +14,8 @@ header:
   actions:
     - label: "About the project"
       url: "/about"
-    - label: "Events"
-      url: "/events"
+    - label: "Contact Us"
+      url: "/contact-us"
 intro: 
   - excerpt: 'UNIVERSE-HPC will define a training curriculum framework – spanning from undergraduate to continuing professional development level - for Research Software Engineers (RSEs) specializing in high performance computing (HPC).'
 
