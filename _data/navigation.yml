@@ -23,9 +23,12 @@ uhpc_menu:
         url: "/about/#about-excalibur"
   
   - title: "Events"
+    url: "/"
     children:
-      - title: "Project Events"
-        url: "/events/"
+      - title: "Events we have participated in"
+        url: "/events/old-events/"
+      - title: "Events we will be at"
+        url: "/events/upcoming-events/"
       - title: "Byte-sized RSE"
         url: "/events/byte-sized-rse/"
 
