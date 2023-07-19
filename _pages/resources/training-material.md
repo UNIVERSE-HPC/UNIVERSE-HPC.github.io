@@ -1,4 +1,4 @@
-    ---
+---
 layout: single  
 title: Training Material
 permalink: /resources/training-material/
