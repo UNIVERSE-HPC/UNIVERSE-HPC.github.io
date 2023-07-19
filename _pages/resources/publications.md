@@ -1,7 +1,7 @@
 ---
 layout: single  
-title: Case Studies
-permalink: /resources/case-studies/
+title: Publications
+permalink: /resources/publications/
 author_profile: false
 sidebar:
   nav: "uhpc_menu"
