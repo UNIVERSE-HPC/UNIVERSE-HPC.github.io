@@ -23,7 +23,7 @@ uhpc_menu:
         url: "/about/#about-excalibur"
   
   - title: "Events"
-    url: "/"
+    url: "/events/"
     children:
       - title: "Events we have participated in"
         url: "/events/old-events/"
