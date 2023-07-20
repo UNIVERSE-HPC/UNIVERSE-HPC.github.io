@@ -13,3 +13,4 @@ The UNIVERSE-HPC project will be running a series of seminars and activities acr
 [Click here]({{ site.baseurl }}/events/old-events/) if you wish to view a list of events we have been a part of.
 
 [Click here]({{ site.baseurl }}/events/upcoming-events/) if you wish to vew a list of events we will be attending soon.
+
