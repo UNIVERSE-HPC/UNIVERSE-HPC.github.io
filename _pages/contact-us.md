@@ -10,4 +10,4 @@ sidebar:
 ---
 If you would like to get in touch with us, please contact us on [info@universe-hpc.ac.uk](mailto:info@universe-hpc.ac.uk)
 
-To stay in touch with our activities and plans please Click Here to subscribe to our mailing list.
+To stay in touch with our activities and plans please [Click Here] to subscribe to our mailing list.
