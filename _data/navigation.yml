@@ -21,6 +21,9 @@ uhpc_menu:
         url: "/team/"
       - title: "About ExCALIBUR"
         url: "/about/#about-excalibur"
+      - title: "Training Pathways"
+        url: "/about/pathways/"
+      
   
   - title: "Events"
     url: "/events/"
