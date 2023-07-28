@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: Training Pathways
-permalink: /pathways/
+permalink: /about/pathways/
 author_profile: false
 sidebar:
   nav: "uhpc_menu"
