@@ -14,20 +14,12 @@ header:
   actions:
     - label: "About the project"
       url: "/about"
-    - label: "Contact Us"
+    - label: "Connect with us"
       url: "/contact-us"
 intro: 
   - excerpt: 'UNIVERSE-HPC will define a training curriculum framework – spanning from undergraduate to continuing professional development level - for Research Software Engineers (RSEs) specializing in high performance computing (HPC).'
 
 feature_row:
-  - image_path: assets/images/fp-universe.jpg
-    image_caption: "<small><small>Photo by [Guillermo Ferla](https://unsplash.com/@gferla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/kEEl9csCutg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
-    alt: "Universe picture"
-    title: "About UNIVERSE-HPC"
-    excerpt: "Find out more about the UNIVERSE-HPC project."
-    url: "/about"
-    btn_label: "About the project"
-    btn_class: "btn--light-outline btn--small"
   - image_path: /assets/images/fp-hands.jpg
     image_caption: "<small><small>Photo by [Clay Banks](https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/LjqARJaJotc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
     alt: "The word team"
@@ -35,6 +27,14 @@ feature_row:
     excerpt: "Details of the project team."
     url: "/team"
     btn_label: "Our team"
+    btn_class: "btn--light-outline btn--small"
+  - image_path: assets/images/fp-writing.jpg
+    image_caption: "<small><small>Photo by [Alejandro Escamilla](https://unsplash.com/@alejandroescamilla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/y83Je1OC6Wc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
+    alt: "Person writing next to laptop"
+    title: "Training Materials"
+    excerpt: "Access our collection of open source training materials developed by international providers and the UNIVERSE-HPC team."
+    url: "/resources/training-material"
+    btn_label: "Training materials"
     btn_class: "btn--light-outline btn--small"
   - image_path: /assets/images/fp-tracks.jpg
     image_caption: "<small><small>Photo by [Louis Verplancken](https://unsplash.com/@louisverplancken?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/984OGWTyrhw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
