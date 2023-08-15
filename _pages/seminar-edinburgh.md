@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: Seminar in Edinburgh on 9th October 2023
-permalink: /seminar-edinburgh/
+permalink: /events/upcoming-events/seminar-edinburgh/
 author_profile: false
 
 
