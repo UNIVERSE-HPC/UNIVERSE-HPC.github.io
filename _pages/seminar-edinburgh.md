@@ -17,6 +17,7 @@ Schedule:
 - Q&A: 12:45 - 1:00pm
 - Lunch at Main Atrium: 1pm - 2pm
 
+## Register now: 
 
 
 #### Join our email list
