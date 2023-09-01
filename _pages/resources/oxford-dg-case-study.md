@@ -7,6 +7,7 @@ author_profile: false
 sidebar:
   nav: "uhpc_menu"
 ---
+![sabs_r3_cdt_logo_v3_ukri_epsrc_273x115 (1)](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/assets/106165178/034242de-15bb-4182-a586-7c6b2b61b23f)
 
 Embedding realistic experience of research software development in doctoral training. 
 
@@ -17,6 +18,8 @@ Responsible and Reproducible Research Centre for Doctoral Training) is a 4 year 
 
 The students are split into small groups and each group is expected to work collaboratively on a real-life research software project.  Every step of the project experience has been carefully designed to closely mimic the experience of working in a research software environment, but with extensive support so students learn the real challenges (and excitement!) of research software engineering.  
 
+![student_office_b_for_web](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/assets/106165178/c64430f4-d290-4dba-83f2-91dbf12d4ef0) 
+
 **Impactful projects:**
 The student projects are proposed by collaborators from the pharmaceutical and biotechnology industry; these are not theoretical learning exercises but real software development challenges that meet a real  industrial need. Unlike many projects where students are tasked with writing new code from scratch, the SABS R3 students are passed existing code that requires further development; students are required to learn the code, and understand how the proposed developments integrate into the existing structure.  The projects have a clear impact for health research thus students experience the satisfaction of working to develop solutions for real problems. Current examples include epidemiological modeling in collaboration with Roche, and quality control of medical images in collaboration with GE Healthcare. 
 
@@ -24,6 +27,8 @@ Students are expected to embed the best software practices throughout the projec
 
 **Gaining from peer-to-peer support:**
 The CDT cohort of approximately 15-20 students are grouped into groups of 4 to 5 students.  This is done carefully by the course leaders to ensure that each group contains students with a mix of skills (e.g. students that already have strong mathematical skills might be mixed with someone with leadership skills, at least one student with a strong programming or software engineering background etc).  This is to replicate a normal working team environment, and helps to ensure the students learn to recognise their own (and others) strengths and weaknesses.  
+
+![student_office_d_for_web](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/assets/106165178/feea4812-bfd5-46c4-9072-bbbcda4b47ab)
 
 **Passing knowledge between cohorts:**
 One key aspect of the CDT is that each cohort of students is encouraged to support the next; each year a selection of students from previous years are paid to provide dedicated support to the first year students. Both parties gain from this experience, the first years students get extensive support from more experienced peers who can dedicate significant time to supervision, and the later cohorts gain the experience of teaching and passing their knowledge on.  It works much in the same way that more established research software engineers are often required to onboard new staff members.  
