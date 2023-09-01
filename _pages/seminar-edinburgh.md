@@ -7,7 +7,9 @@ author_profile: false
 
 
 ---
-Join us for our first Seminar on UNIVERSE-HPC on 9th October 2023 at the Bayes Centre @ The University of Edinburgh and Online.
+Join us for our first Seminar on UNIVERSE-HPC on 9th October 2023 @ The Bayes Centre (The University of Edinburgh) and Online.
+
+### Register now: Link opens on 4th September 2023.
 
 ## Topic: Structure and delivery format for Online HPC courses
 Day/Date: Monday, 9th October 2023
@@ -21,8 +23,6 @@ Schedule:
 Last date to register:
 - For Face to Face in Edinburgh: 2nd October 2023.
 - For Online: 5th October 2023.
-
-### Register now: 
 
 
 #### Join our email list
