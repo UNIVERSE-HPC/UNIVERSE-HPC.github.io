@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Seminar in Edinburgh on 9th October 2023
+title: Structure and delivery format for Online HPC courses
 permalink: /events/upcoming-events/seminar-edinburgh/
 author_profile: false
 
@@ -11,10 +11,7 @@ Join us for our first Seminar on UNIVERSE-HPC on 9th October 2023 @ The Bayes Ce
 
 ### [Register Now](https://www.eventbrite.co.uk/e/structure-and-delivery-format-for-online-hpc-courses-tickets-712949680687?aff=oddtdtcreator).
 
-## Topic: Structure and delivery format for Online HPC courses
-Day/Date: Monday, 9th October 2023
-
-Schedule: 
+## Schedule
 - Welcome & Introduction by the PI Neil Chue Hong: 11:30 - 11:45am
 - Main session by Professor David Henty: 11:45am - 12:45pm
 - Q&A: 12:45 - 1:00pm
