@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Structure and delivery format for Online HPC courses
+title: Discussion Session: Structure and delivery format for Online HPC courses
 permalink: /events/upcoming-events/seminar-edinburgh/
 author_profile: false
 
