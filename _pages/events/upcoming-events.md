@@ -10,4 +10,4 @@ sidebar:
 We will be a part of many events in the coming weeks, here are a few of them - See you there! 
 
 
- - [Session on Structure and Delivery Format for Online HPC Courses]({{ site.baseurl }}/events/upcoming-events/seminar-edinburgh)
+ - [Seminar - Structure and Delivery Format for Online HPC Courses]({{ site.baseurl }}/events/upcoming-events/seminar-edinburgh)
