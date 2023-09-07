@@ -13,7 +13,7 @@ Join us for our first Seminar on UNIVERSE-HPC on 9th October 2023 @ The Bayes Ce
 
 ## Schedule
 - Welcome & Introduction by the PI Neil Chue Hong: 11:30 - 11:45am
-- Main session by Professor David Henty: 11:45am - 12:45pm
+- Main session by Dr David Henty: 11:45am - 12:45pm
 - Q&A: 12:45 - 1:00pm
 - Lunch at Main Atrium: 1pm - 2pm
 
