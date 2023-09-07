@@ -11,6 +11,9 @@ Join us for our first Seminar on UNIVERSE-HPC on 9th October 2023 @ The Bayes Ce
 
 ### [Register Now](https://www.eventbrite.co.uk/e/structure-and-delivery-format-for-online-hpc-courses-tickets-712949680687?aff=oddtdtcreator).
 
+# Overview: #
+With the rapid move to widescale use of online training kickstarted by the COVID pandemic, there has been a lot of discussion about the best technologies to use for the delivery of lectures and practicals for remote courses, but surprisingly little discussion about the high-level structure such as timetabling. In this talk, Dr David Henty will discuss the pros and cons of a variety of formats that EPCC has used for online training before, during and after the pandemic.
+
 ## Schedule
 - Welcome & Introduction by the PI Neil Chue Hong: 11:30 - 11:45am
 - Main session by Dr David Henty: 11:45am - 12:45pm
