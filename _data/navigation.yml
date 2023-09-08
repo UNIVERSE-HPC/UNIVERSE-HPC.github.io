@@ -43,6 +43,8 @@ uhpc_menu:
         url: "/resources/publications"
       - title: "Training Material"
         url: "/resources/training-material"
+      - title: "Surveys"
+        url: "/resources/surveys"
 
   - title: "Privacy Policy"
     url: "/privacy/"
