@@ -7,7 +7,7 @@ sidebar:
   nav: "uhpc_menu"
 ---
 
-We will be a part of many events in the coming weeks, here are a few of them - See you there! 
+The upcoming events listed on this page are either run by or related to the UNIVERSE-HPC project:
 
 
- - [Seminar - Structure and Delivery Format for Online HPC Courses]({{ site.baseurl }}/events/upcoming-events/seminar-edinburgh)
+ - Monday 9th October 2023, 11:30-13:00: [UNIVERSE-HPC Project Seminar - Structure and Delivery Format for Online HPC Courses]({{ site.baseurl }}/events/upcoming-events/seminar-edinburgh), Dr David Henty, _EPCC, University of Edinburgh_.
