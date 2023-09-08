@@ -13,3 +13,4 @@ sidebar:
  - [Case Studies]({{ site.baseurl }}/resources/case-studies/)
  - [Publications]({{ site.baseurl }}/resources/publications/)
  - [Training Material]({{ site.baseurl }}/resources/training-material/)
+ - [Surveys]({{ site.baseurl }}/resources/surveys/)
