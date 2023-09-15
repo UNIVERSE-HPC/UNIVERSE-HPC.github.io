@@ -45,4 +45,4 @@ on subscribing to a "Sympa" mailing list on the University of Edinburgh
 website.</small>
 
 If you have any problems joining the mailing list please contact us at
-[info@universe-hpc.ac.uk](mailto:info@universe-hpc.ac.uk) to be added manually.
+[our email](mailto:s.sukhiani@epcc.ed.ac.uk) to be added manually.
