@@ -24,7 +24,7 @@ With the rapid move to widescale use of online training kickstarted by the COVID
 - Q&A: 12:45 - 1:00pm
 - Lunch at Main Atrium: 1pm - 2pm
 
-**Registration deadline for in-person attendance:** Sunday 1st October 2023
+**Registration deadline for in-person attendance:** Sunday 8th October 2023
 
 
 #### Join our email list
