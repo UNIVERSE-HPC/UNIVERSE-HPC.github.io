@@ -26,6 +26,7 @@ With the rapid move to widescale use of online training kickstarted by the COVID
 
 **Registration deadline for in-person attendance:** Sunday 8th October 2023
 
+Please read our event code of conduct policy here: [https://www.software.ac.uk/programmes-and-events/code-conduct](https://www.software.ac.uk/programmes-and-events/code-conduct)
 
 #### Join our email list
 
