@@ -45,7 +45,9 @@ uhpc_menu:
         url: "/resources/training-material"
       - title: "Surveys"
         url: "/resources/surveys"
-
+      - title: "News and Blog Posts"
+        url: "/resources/news-blogs"
+        
   - title: "Privacy Policy"
     url: "/privacy/"
 
