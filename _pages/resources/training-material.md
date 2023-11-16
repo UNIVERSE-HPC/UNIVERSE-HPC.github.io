@@ -13,7 +13,7 @@ All the material is hosted [here](https://github.com/UNIVERSE-HPC/course-materia
 
 ## Course website
 
-To render the material in a form suitable for running courses, we have written a website called [Gutenberg](https://github.com/OxfordRSE/gutenberg). You can see an example deployment of this website by the Oxford Research Software Engineering [here](https://train.oxrse.uk/). The website renders the material as static webpages, but also has a database and backend for hosting course "events". Events are comprised as a linear series of modules along with timing and location information and pointers to material. Students can enrol on courses, and tick off problems as they complete them, enabling instructors to track progress. Students can also comment directly on the material in order to obtain asynchronous, remote feedback from other students and instructors if required. 
+To render the material in a form suitable for running courses, we have written a website called [Gutenberg](https://github.com/OxfordRSE/gutenberg). You can see an example deployment of this website by Oxford Research Software Engineering (OxRSE) [here](https://train.oxrse.uk/). The website renders the material as static webpages, but also has a database and backend for hosting course "events". Events are comprised as a linear series of modules along with timing and location information and pointers to material. Students can enrol on courses, and tick off problems as they complete them, enabling instructors to track progress. Students can also comment directly on the material in order to obtain asynchronous, remote feedback from other students and instructors if required. 
 
 ## Courses and Modules
 
