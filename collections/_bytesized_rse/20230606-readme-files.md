@@ -1,7 +1,8 @@
 ---
 title: "Series 1, Session 8: README files"
 image:
-date: Tuesday 6th June 2023, 13:00-14:30 BST
+date: 06-06-2023 13:00 BST
+time-range: 13:00-14:00 BST
 instructors: Jeremy Cohen and Steve Crouch
 slides: "https://docs.google.com/presentation/d/1OJC_qmbIMGzrew_4HA7fMY-Sgtg-06I5DyhalC80Sm8"
 podcast: "https://codeforthought.buzzsprout.com/1326658/12979597-en-bytesized-rse-the-readme-with-julian-lenz"

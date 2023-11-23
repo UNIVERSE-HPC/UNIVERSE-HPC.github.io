@@ -1,7 +1,8 @@
 ---
 title: "Series 1, Session 1: Software Licensing"
 image:
-date: Tuesday 18th October 2022, 13:00-14:00 BST
+date: 18-10-2022 13:00 BST
+time-range: 13:00-14:00 BST
 instructors: Jeremy Cohen and Steve Crouch
 slides: 
 podcast: "https://codeforthought.buzzsprout.com/1326658/11564212-bytesized-software-licences"

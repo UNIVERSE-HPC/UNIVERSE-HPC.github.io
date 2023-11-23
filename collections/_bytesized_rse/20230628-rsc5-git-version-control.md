@@ -1,7 +1,8 @@
 ---
 title: "Research Software Camp #5: Git Version Control - Beyond Beginner Level"
 image:
-date: Wednesday 28th June 2023, 10:00-12:00 BST
+date: 28-06-2023 10:00 BST
+time-range: 10:00-12:00 BST
 instructors: Jeremy Cohen and Steve Crouch
 slides: "https://docs.google.com/presentation/d/1USOTBichtOkgX5-F-vYios3xhWSj1xtG9H5639Igo1E"
 podcast: 

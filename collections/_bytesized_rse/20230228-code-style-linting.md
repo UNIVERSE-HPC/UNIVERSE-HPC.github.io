@@ -1,7 +1,8 @@
 ---
 title: "Series 1, Session 5: Code Style and Linting"
 image:
-date: Tuesday 28th February 2023, 13:00-14:30 GMT
+date: 28-02-2023 13:00 GMT
+time-range: 13:00-14:30 GMT
 instructors: Jeremy Cohen and Steve Crouch
 slides: "https://docs.google.com/presentation/d/1NOuMxVu9LYUq1xQk_RgNmsecXLm2rXrt0w6p6--IKXA"
 podcast: "https://codeforthought.buzzsprout.com/1326658/12336174-bytesized-rse-lint-and-static-code-analysis"

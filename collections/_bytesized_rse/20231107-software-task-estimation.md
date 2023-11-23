@@ -1,7 +1,8 @@
 ---
 title: "Series 2, Session 1: Software Task Estimation"
 image:
-date: Tuesday 7th November 2023, 13:00-14:00 GMT
+date: 07-11-2023 13:00 GMT
+time-range: 13:00-14:00 GMT
 instructors: Peter Schmidt
 slides: 
 podcast: 

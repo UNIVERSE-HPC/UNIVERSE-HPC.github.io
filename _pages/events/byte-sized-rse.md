@@ -53,7 +53,7 @@ topic that we've not yet covered, you can get in touch with
         {% endif %}
       </strong>
     </p>
-    <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Date: </strong>{{ episode.date }}</p>
+    <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Date: </strong>{{ episode.date | date: "%A %e %B, %Y &nbsp;" }}{{ episode.time-range }}</p>
     <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Instructors: </strong>{{ episode.instructors }}</p>
     <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Links: </strong>
       {% if episode.slides %}

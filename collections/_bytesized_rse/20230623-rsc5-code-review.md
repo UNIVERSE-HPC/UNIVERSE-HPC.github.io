@@ -1,7 +1,8 @@
 ---
 title: "Research Software Camp #5: Code Review"
 image:
-date: Tuesday 23rd June 2023, 10:00-12:00 BST
+date: 23-06-2023 10:00 BST
+time-range: 10:00-12:00 BST
 instructors: Jeremy Cohen and Steve Crouch
 slides: "https://docs.google.com/presentation/d/1Ay0Cs9WTjKe-XzN9dczY3q_vf-b6XUGhnLANiXZ9FxU/edit?usp=sharing"
 podcast: 
