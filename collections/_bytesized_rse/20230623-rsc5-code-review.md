@@ -1,0 +1,15 @@
+---
+title: "Research Software Camp #5: Code Review"
+image:
+date: Tuesday 23rd June 2023, 10:00-12:00 BST
+instructors: Jeremy Cohen and Steve Crouch
+slides: "https://docs.google.com/presentation/d/1Ay0Cs9WTjKe-XzN9dczY3q_vf-b6XUGhnLANiXZ9FxU/edit?usp=sharing"
+podcast: 
+---
+
+A re-run of Byte-sized RSE session 2 from series 1 as part of the [5th SSI Research Software 
+Camp](https://www.software.ac.uk/Events/research-software-camp-fair-software), which looked 
+at collaboration and code review via GitHub.
+
+A companion podcast is now available as part of the 
+[Code for Thought](https://codeforthought.buzzsprout.com/) series.

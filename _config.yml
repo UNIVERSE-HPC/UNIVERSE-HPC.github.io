@@ -140,3 +140,4 @@ defaults:
 collections_dir: collections
 collections:
   - project_team
+  - bytesized_rse
