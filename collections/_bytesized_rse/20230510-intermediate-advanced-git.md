@@ -2,7 +2,8 @@
 title: Intermediate/Advanced Git
 series: 1
 episode: 7
-image:
+image: "/assets/images/byte-sized-rse/20230510-intermediate-advanced-git.jpg"
+image_caption: <small>Photo by <a href="https://unsplash.com/@disruptxn">Desola Lanre-Ologun</a> on <a href="https://unsplash.com">Unsplash</a></small>
 date: 10-05-2023 13:00 BST
 time-range: 13:00-14:30 BST
 instructors: Jeremy Cohen and Steve Crouch

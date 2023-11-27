@@ -2,7 +2,8 @@
 title: "Research Software Camp #5: Code Review"
 series:
 episode:
-image:
+image: "/assets/images/byte-sized-rse/20230623-rsc5-code-review.jpg"
+image_caption: <small>Photo by <a href="https://unsplash.com/@mimithian">Mimi Thian</a> on <a href="https://unsplash.com">Unsplash</a></small>
 date: 23-06-2023 10:00 BST
 time-range: 10:00-12:00 BST
 instructors: Jeremy Cohen and Steve Crouch

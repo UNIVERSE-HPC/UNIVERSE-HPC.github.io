@@ -2,7 +2,8 @@
 title: Testing your Python code
 series: 1
 episode: 3
-image:
+image: "/assets/images/byte-sized-rse/20221213-testing-python-code.jpg"
+image_caption: <small>Photo by <a href="https://unsplash.com/@hush52">Hush Naidoo</a> on <a href="https://unsplash.com">Unsplash</a></small>
 date: 13-12-2022 13:00 GMT
 time-range: 13:00-14:00 GMT
 instructors: Jeremy Cohen and Steve Crouch

@@ -2,7 +2,8 @@
 title: README files
 series: 1
 episode: 8
-image:
+image: "/assets/images/byte-sized-rse/20230606-readme-files.jpg"
+image_caption: <small>Photo by <a href="https://unsplash.com/@aaronburden">Aaron Burden</a> on <a href="https://unsplash.com">Unsplash</a></small>
 date: 06-06-2023 13:00 BST
 time-range: 13:00-14:00 BST
 instructors: Jeremy Cohen and Steve Crouch

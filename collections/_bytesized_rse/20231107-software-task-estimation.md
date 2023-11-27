@@ -2,7 +2,8 @@
 title: Software Task Estimation
 series: 2
 episode: 1
-image:
+image: "/assets/images/byte-sized-rse/20231107-software-task-estimation.jpg"
+image_caption: <small>Photo by <a href="https://unsplash.com/@kvalifik">kvalifik</a> on <a href="https://unsplash.com">Unsplash</a></small>
 date: 07-11-2023 13:00 GMT
 time-range: 13:00-14:00 GMT
 instructors: Peter Schmidt

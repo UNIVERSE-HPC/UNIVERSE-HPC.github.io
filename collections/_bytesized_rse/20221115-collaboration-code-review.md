@@ -2,7 +2,8 @@
 title: Collaboration and Code Review via GitHub
 series: 1
 episode: 2
-image:
+image: "/assets/images/byte-sized-rse/20221115-collaboration-code-review.jpg"
+image_caption: <small>Photo by <a href="https://unsplash.com/@disruptxn">Desola Lanre-Ologun</a> on <a href="https://unsplash.com">Unsplash</a></small>
 date: 15-11-2022 14:00 GMT
 time-range: 14:00-15:00 GMT
 instructors: Jeremy Cohen and Steve Crouch

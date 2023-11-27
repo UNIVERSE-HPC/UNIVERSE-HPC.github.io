@@ -2,7 +2,8 @@
 title: Integrated Development Environments (IDEs)
 series: 1
 episode: 6
-image:
+image: "/assets/images/byte-sized-rse/20230328-integrated-development-environments.jpg"
+image_caption: <small>Photo by <a href="https://unsplash.com/@riku">Riku Lu</a> on <a href="https://unsplash.com">Unsplash</a></small>
 date: 28-03-2023 13:00 BST
 time-range: 13:00-14:30 BST
 instructors: Jeremy Cohen and Steve Crouch

@@ -2,7 +2,8 @@
 title: Code Style and Linting
 series: 1
 episode: 5
-image:
+image: "/assets/images/byte-sized-rse/20230228-code-stle-linting.jpg"
+image_caption: <small>Photo by <a href="https://unsplash.com/@cdr6934">Chris Ried</a> on <a href="https://unsplash.com">Unsplash</a></small>
 date: 28-02-2023 13:00 GMT
 time-range: 13:00-14:30 GMT
 instructors: Jeremy Cohen and Steve Crouch

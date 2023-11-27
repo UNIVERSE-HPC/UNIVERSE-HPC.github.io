@@ -2,7 +2,8 @@
 title: Continuous Integration
 series: 1
 episode: 4
-image:
+image: "/assets/images/byte-sized-rse/20230117-continuous-integration.jpg"
+image_caption: <small>Photo by <a href="https://unsplash.com/@tvick">Taylor Vick</a> on <a href="https://unsplash.com">Unsplash</a></small>
 date: 17-01-2023 13:00 GMT
 time-range: 13:00-14:00 GMT
 instructors: Jeremy Cohen and Steve Crouch
