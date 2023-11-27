@@ -1,5 +1,7 @@
 ---
-title: "Series 1, Session 3: Testing your Python code"
+title: Testing your Python code
+series: 1
+episode: 3
 image:
 date: 13-12-2022 13:00 GMT
 time-range: 13:00-14:00 GMT

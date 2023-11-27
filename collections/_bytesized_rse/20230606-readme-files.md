@@ -1,5 +1,7 @@
 ---
-title: "Series 1, Session 8: README files"
+title: README files
+series: 1
+episode: 8
 image:
 date: 06-06-2023 13:00 BST
 time-range: 13:00-14:00 BST

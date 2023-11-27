@@ -1,5 +1,7 @@
 ---
-title: "Series 2, Session 1: Software Task Estimation"
+title: Software Task Estimation
+series: 2
+episode: 1
 image:
 date: 07-11-2023 13:00 GMT
 time-range: 13:00-14:00 GMT

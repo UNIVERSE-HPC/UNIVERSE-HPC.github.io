@@ -1,5 +1,7 @@
 ---
-title: "Series 1, Session 7: Intermediate/Advanced Git"
+title: Intermediate/Advanced Git
+series: 1
+episode: 7
 image:
 date: 10-05-2023 13:00 BST
 time-range: 13:00-14:30 BST

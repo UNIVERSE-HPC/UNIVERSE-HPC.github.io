@@ -1,5 +1,7 @@
 ---
-title: "Series 1, Session 6: Integrated Development Environments (IDEs)"
+title: Integrated Development Environments (IDEs)
+series: 1
+episode: 6
 image:
 date: 28-03-2023 13:00 BST
 time-range: 13:00-14:30 BST

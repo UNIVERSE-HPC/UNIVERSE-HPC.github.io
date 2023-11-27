@@ -1,5 +1,6 @@
 ---
-layout: single  
+layout: single
+classes: wide
 title: Byte-sized RSE
 permalink: /events/byte-sized-rse/
 author_profile: false
@@ -48,6 +49,12 @@ topic that we've not yet covered, you can get in touch with
                  margin-bottom: 10px;">
     <p style="font-size: 0.9em; margin-bottom: 10px;">
       <strong>
+        {% if episode.series %}
+          Series {{ episode.series }},
+        {% endif %}
+        {% if episode.episode %}
+          Episode {{ episode.episode }}:
+        {% endif %}
         {% if episode.title %}
           {{ episode.title }}
         {% endif %}

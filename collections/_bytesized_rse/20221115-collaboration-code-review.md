@@ -1,5 +1,7 @@
 ---
-title: "Series 1, Session 2: Collaboration and Code Review via GitHub"
+title: Collaboration and Code Review via GitHub
+series: 1
+episode: 2
 image:
 date: 15-11-2022 14:00 GMT
 time-range: 14:00-15:00 GMT

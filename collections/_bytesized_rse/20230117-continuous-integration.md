@@ -1,5 +1,7 @@
 ---
-title: "Series 1, Session 4: Continuous Integration"
+title: Continuous Integration
+series: 1
+episode: 4
 image:
 date: 17-01-2023 13:00 GMT
 time-range: 13:00-14:00 GMT

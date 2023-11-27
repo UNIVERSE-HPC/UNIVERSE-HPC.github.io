@@ -1,5 +1,7 @@
 ---
 title: "Research Software Camp #5: Code Review"
+series:
+episode:
 image:
 date: 23-06-2023 10:00 BST
 time-range: 10:00-12:00 BST

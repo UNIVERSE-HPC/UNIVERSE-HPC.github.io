@@ -1,5 +1,7 @@
 ---
-title: "Series 1, Session 5: Code Style and Linting"
+title: Code Style and Linting
+series: 1
+episode: 5
 image:
 date: 28-02-2023 13:00 GMT
 time-range: 13:00-14:30 GMT

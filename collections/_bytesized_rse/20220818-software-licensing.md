@@ -1,5 +1,7 @@
 ---
-title: "Series 1, Session 1: Software Licensing"
+title: Software Licensing
+series: 1
+episode: 1
 image:
 date: 18-10-2022 13:00 BST
 time-range: 13:00-14:00 BST
