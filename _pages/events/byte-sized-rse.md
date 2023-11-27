@@ -25,28 +25,38 @@ topic that we've not yet covered, you can get in touch with
 [Steve Crouch](https://www.software.ac.uk/our-people/steve-crouch).
 
 {% assign current_date = site.time | date: '%s' %}
+{% assign mention_future = "no" %}
 {% assign mention_previous = "no" %}
 {% assign sorted_episodes = site.bytesized_rse | reverse %}
 {% for episode in sorted_episodes %}
 
+  {% assign post_date = episode.date | date: '%s' %}
+  {% if mention_future == "no" and post_date >= current_date %}
   <div>
-    {% assign post_date = episode.date | date: '%s' %}
-    {% if mention_previous == "no" and post_date < current_date %}
-        <h2>Past Byte-sized RSE events</h2>
-        {% assign mention_previous = "yes" %}
-    {% endif %}
+    <h2>Future Byte-sized RSE events</h2>
+  </div>
+  {% assign mention_future = "yes" %}
+  {% elsif mention_previous == "no" and post_date < current_date %}
+  <div>
+    <h2>Past Byte-sized RSE events</h2>
+  </div>
+  {% assign mention_previous = "yes" %}
+  {% endif %}
 
-    {% if episode.image and episode.image != "" %}
-      <img src="{{ site.baseurl }}{{ episode.image }}"
-    {% else %}
-      <img src="{{ site.baseurl }}/assets/images/team/profile_placeholder.png"
-    {% endif %}
-          style="border-radius: 50%;
-                 float: right;
-                 width: 300px;
-                 margin-left: 15px;
-                 margin-right: 15px;
-                 margin-bottom: 10px;">
+  <div>
+
+    <div class="archive__item-teaser" style="margin-right: 15px; float: right;">
+      {% if episode.image and episode.image != "" %}
+        <img src="{{ site.baseurl }}{{ episode.image }}"
+      {% else %}
+        <img src="{{ site.baseurl }}/assets/images/team/profile_placeholder.png"
+      {% endif %}
+            style="width: 400px; max-height: 300px; margin-left: 15px;">
+      {% if episode.image_caption %}
+        <span class="archive__item-caption">{{ episode.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+      {% endif %}
+    </div>
+
     <p style="font-size: 0.9em; margin-bottom: 10px;">
       <strong>
         {% if episode.series %}
@@ -64,7 +74,7 @@ topic that we've not yet covered, you can get in touch with
     <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Instructors: </strong>{{ episode.instructors }}</p>
     <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Links: </strong>
       {% if episode.slides %}
-        <a href="{{ episode.slides }}">Slides</a>,
+        <a href="{{ episode.slides }}">Slides</a>{% if episode.podcast %},{% endif%}
       {% endif %}
       {% if episode.podcast %}
         <a href="{{ episode.podcast }}">Code for Thought podcast</a>
@@ -75,7 +85,8 @@ topic that we've not yet covered, you can get in touch with
       <p>{{ episode.content | markdownify }}</p>
     </div>
     <div style="clear: both;"></div>
+    <hr>
+
   </div>
-  <hr/>
 
 {% endfor %}
