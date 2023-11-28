@@ -11,7 +11,9 @@ sidebar:
 Byte-sized RSE is a series of events providing key research software skills in 
 just 1 hour!
 
-Run by the UNIVERSE-HPC project, the byte-sized RSE series began in October 2022.
+Run by the UNIVERSE-HPC project, the byte-sized RSE series began in October 2022. We
+are currently running a second series of sessions during the 2023-24 academic
+year. 
 
 Each session has a companion podcast episode in the [Code for Thought](https://codeforthought.buzzsprout.com/) 
 podcast series.

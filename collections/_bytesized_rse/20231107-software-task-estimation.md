@@ -7,8 +7,8 @@ image_caption: <small>Photo by <a href="https://unsplash.com/@kvalifik">kvalifik
 date: 07-11-2023 13:00 GMT
 time-range: 13:00-14:00 GMT
 instructors: Peter Schmidt
-slides: 
-podcast: 
+slides: "https://docs.google.com/presentation/d/1MijlsBknhkKOiP6qYDjMHQBIbuiGFIs-F3_N-mOJA68/edit?usp=sharing"
+podcast: "https://codeforthought.buzzsprout.com/1326658/13932971-en-bytesized-rse-software-estimation-or-how-long-is-a-piece-of-string"
 ---
 
 In the first session of season 2 of byte-sized RSE, we'll look at that 
