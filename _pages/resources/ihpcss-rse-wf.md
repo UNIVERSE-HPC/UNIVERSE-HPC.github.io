@@ -32,6 +32,6 @@ Some of the questions included:
 Overall, many students were very interested in the prospect of getting a job at the intersection of their domain science, software engineering and HPC. However, they were not clear what that would actually entail, in terms of skills, day-to-day job and career progression. Having just learned about the RSE career path they were not sure how to go about finding and applying for related jobs. Most were keen to get access to community resources and some requested to be added to the RSE Slack (in relevant regions). 
 
 Survey and article by:
-Weronika Filinger
+[Weronika Filinger](https://www.epcc.ed.ac.uk/about-us/our-team/weronika-filinger)
 HPC Project Manager; Programme Director, online MSc in HPC
 EPCC, University of Edinburgh
