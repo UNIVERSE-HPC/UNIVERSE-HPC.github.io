@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: UNIVERSE-HPC Project Seminar Series
-permalink: /events/upcoming-events/2023-10-09_seminar-edinburgh/
+permalink: /events/old-events/2023-10-09_seminar-edinburgh/
 author_profile: false
 
 
@@ -13,7 +13,7 @@ author_profile: false
 **Join us for the first UNIVERSE-HPC seminar on Monday 9th October 2023 at
 11:30am**. This is a hybrid event and you can join us online or in person at The Bayes Centre, University of Edinburgh.
 
-### [Register Now](https://www.eventbrite.co.uk/e/structure-and-delivery-format-for-online-hpc-courses-tickets-712949680687?aff=oddtdtcreator).
+### Registration Closed
 
 ## Overview:
 With the rapid move to widescale use of online training kickstarted by the COVID pandemic, there has been a lot of discussion about the best technologies to use for the delivery of lectures and practicals for remote courses, but surprisingly little discussion about the high-level structure such as timetabling. In this talk, Dr David Henty will discuss the pros and cons of a variety of formats that EPCC has used for online training before, during and after the pandemic.
