@@ -28,9 +28,9 @@ uhpc_menu:
   - title: "Events"
     url: "/events/"
     children:
-      - title: "Events we have participated in"
+      - title: "Past Events"
         url: "/events/old-events/"
-      - title: "Events we will be at"
+      - title: "Upcoming Events"
         url: "/events/upcoming-events/"
       - title: "Byte-sized RSE"
         url: "/events/byte-sized-rse/"
