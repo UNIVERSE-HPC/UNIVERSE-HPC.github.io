@@ -1,6 +1,6 @@
 ---
 layout: single  
-title: Events we will be at
+title: Upcoming Events
 permalink: /events/upcoming-events/
 author_profile: false
 sidebar:
