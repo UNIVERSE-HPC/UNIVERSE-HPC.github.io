@@ -75,12 +75,17 @@ topic that we've not yet covered, you can get in touch with
     <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Date: </strong>{{ episode.date | date: "%A %e %B, %Y &nbsp;" }}{{ episode.time-range }}</p>
     <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Instructors: </strong>{{ episode.instructors }}</p>
     <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Links: </strong>
+      <ul style="font-size: 0.7em; margin: 0 auto;">
       {% if episode.slides %}
-        <a href="{{ episode.slides }}">Slides</a>{% if episode.podcast %},{% endif%}
+        <li style="font-size: 0.9em; margin-bottom: 0;">Slides: <a href="{{ episode.slides }}" target="_blank" rel="noopener noreferrer">Intro slides</a></li>
+      {% endif %}
+      {% if episode.slides_tutorial %}
+        <li style="font-size: 0.9em; margin-bottom: 0;">Slides: <a href="{{ episode.slides_tutorial }}" target="_blank" rel="noopener noreferrer">Tutorial slides</a></li>
       {% endif %}
       {% if episode.podcast %}
-        <a href="{{ episode.podcast }}">Code for Thought podcast</a>
+        <li style="font-size: 0.9em; margin-bottom: 0;">Podcast: <a href="{{ episode.podcast }}" target="_blank" rel="noopener noreferrer">Code for Thought podcast episode</a></li>
       {% endif %}
+      </ul>
     </p>
 
     <div style="font-size: 0.7em;">
