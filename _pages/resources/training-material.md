@@ -7,6 +7,19 @@ sidebar:
   nav: "uhpc_menu"
 ---
 
+This section of the UNIVERSE-HPC website provides access to our collated
+training materials and learning pathway structures. The materials here are
+targeted at both trainers / course developers and individuals who are keen to
+develop their skills through self-learning. Below you can find a table of our
+current [courses and modules](#courses-and-modules). You can also find details
+aimed at training material developers and course organisers about how the
+material is built and how to deploy your own version of the reference course
+website.
+
+Pathway structures can be viewed via a series of interactive graphs accessible
+via the course links in the table below and via the course material section of
+the "Gutenberg" [course website](#course-website).
+
 ## Course Material
 
 All the material is hosted [here](https://github.com/UNIVERSE-HPC/course-material) written in github flavored markdown with a few custom directives to indicate callouts, problem and solutions blocks. Each section also has its own metadata header section in YAML, which contains information on the name, the dependencies of each section, and the attribution information for that section of material. The format is described in more detail in the [CONTRIBUTING.md](https://github.com/UNIVERSE-HPC/course-material/blob/main/CONTRIBUTING.md)
