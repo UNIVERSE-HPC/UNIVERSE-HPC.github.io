@@ -3,6 +3,7 @@ layout: single
 title: Training Material
 permalink: /resources/training-material/
 author_profile: false
+classes: wide
 sidebar:
   nav: "uhpc_menu"
 ---
