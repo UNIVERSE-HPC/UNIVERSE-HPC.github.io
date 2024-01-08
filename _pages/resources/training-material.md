@@ -23,7 +23,7 @@ the "Gutenberg" [course website](#course-website).
 
 ## Course Material
 
-All the material is hosted [here](https://github.com/UNIVERSE-HPC/course-material) written in [GitHub Flavored Markdown](https://github.github.com/gfm/) with a few custom directives to indicate callouts, problem and solution blocks. Each section also has its own metadata header section in YAML, which contains information on the name and dependencies of each section, as well as the attribution information for that section of material. The format is described in more detail in the [CONTRIBUTING.md](https://github.com/UNIVERSE-HPC/course-material/blob/main/CONTRIBUTING.md)
+All the material is hosted [here](https://github.com/UNIVERSE-HPC/course-material) written in [GitHub Flavored Markdown](https://github.github.com/gfm/) with a few custom directives to indicate callouts, problem and solution blocks. Each section also has its own metadata header section in YAML, which contains information on the name and dependencies of each section, as well as the attribution information for that section of material. The format is described in more detail in [CONTRIBUTING.md](https://github.com/UNIVERSE-HPC/course-material/blob/main/CONTRIBUTING.md).
 
 ## Course website
 
