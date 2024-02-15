@@ -9,4 +9,4 @@ sidebar:
 
 The upcoming events listed on this page are either run by or related to the UNIVERSE-HPC project:
 
-There are no new events listed for 2024, we will update this page as soon as we have decided the events we will be a part of.
+[Widening participation in education - what can we learn post-pandemic?](https://www.universe-hpc.ac.uk/events/upcoming-events/2024-02-29_seminar-imperial/)
