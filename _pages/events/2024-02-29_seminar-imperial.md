@@ -11,14 +11,14 @@ author_profile: false
 ## Widening participation in education - what can we learn post-pandemic?
 
 **Join us for the next UNIVERSE-HPC seminar on Thursday 29 February at
-15:00 GMT**. This is a hybrid event; you can join us online or in person at the Huxley Building on the South Kensington Campus of Imperial College London.
+15:00 GMT**, which will take place **online**.
 
 ### [Register now](https://forms.office.com/e/b8uFc9kZ97).
 
 ## Overview:
 
-- 🕒 **Thursday 29th February** 2024, **15:00 - 16:00** (followed by networking session from 16:00 - 17:00)
-- 📌 **Imperial College London, Room 658**, Huxley Building, South Kensington Campus, & Online
+- 🕒 **Thursday 29th February** 2024, **[15:00 - 16:00 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Widening+participation+in+education+-+what+can+we+learn+post-pandemic%3F+&iso=20240229T15&p1=136&ah=1)**
+- 🌍 Online via Zoom
 - 🗣️ **Mishka Nemes**, Skills and Training Manager at The Alan Turing Institute.
 
 
