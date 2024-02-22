@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: UNIVERSE-HPC Project Seminar Series
-permalink: /events/old-events/2023-10-09_seminar-edinburgh/
+permalink: /events/2023-10-09_seminar-edinburgh/
 author_profile: false
 
 

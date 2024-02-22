@@ -96,7 +96,7 @@ author:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
-# footer:
+footer:
 #  links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
@@ -141,3 +141,4 @@ collections_dir: collections
 collections:
   - project_team
   - bytesized_rse
+  - events

@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: UNIVERSE-HPC Project Seminar Series
-permalink: /events/upcoming-events/2024-02-29_seminar-imperial/
+permalink: /events/2024-02-29_seminar-imperial/
 author_profile: false
 
 
