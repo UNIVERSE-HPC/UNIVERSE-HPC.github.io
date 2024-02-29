@@ -10,7 +10,7 @@ author_profile: false
 
 Familiarise yourself with the [Code of Conduct policy](http://www.universe-hpc.ac.uk/events/code-of-conduct).
 
-Also have a good understanding of what is expected from an attendee that wants to report a harassment incident ([read the reporting guidelines](http://www.universe-hpc.ac.uk/events/code-of-conduct/report-incident)).
+Also have a good understanding of what is expected from an attendee that wants to report a harassment incident ([read the reporting guidelines]({{ site.baseurl}}/events/code-of-conduct/report-incident)).
 
 Try to get as much of the incident in written form (email or via messaging) by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
 
