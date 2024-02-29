@@ -23,7 +23,7 @@ The staff dedicated to enforcing the Code of Conduct are prepared to handle the 
 	- The approximate time of the behaviour (if different than the time the report was made)
 	- The circumstances surrounding the incident
 	- Other people involved in the incident
-4. The staff dedicated to enforcing the Code of Conduct will handle the incident following the [Staff procedure for responding to incidents](http://www.universe-hpc.ac.uk/events/code-of-conduct/respond-to-incident).
+4. The staff dedicated to enforcing the Code of Conduct will handle the incident following the [Staff procedure for responding to incidents]({{ site.baseurl}}/events/code-of-conduct/respond-to-incident).
 5. If you do feel your safety is in jeopardy, please do not hesitate to contact the Police by dialling 999. If you do not have a mobile phone, simply ask a staff member. The police non-emergency number is 101.
 	- If you are participating remotely and feel that your personal safety is in jeopardy at any time then contact your local Police / law enforcement service.
 
