@@ -13,7 +13,7 @@ Please contact any staff dedicated to enforcing the Code of Conduct at our event
 - Eirini Zormpa (Imperial College London) - [e.zormpa@imperial.ac.uk](mailto:ezormpa@imperial.ac.uk)
 - Neil Chue Hong (University of Edinburgh) - [n.chuehong@epcc.ed.ac.uk](mailto:n.chuehong@epcc.ed.ac.uk)
 
-The staff dedicated to enforcing the Code of Conduct are prepared to handle the incident. They are all informed of the [Code of Conduct policy](http://www.universe-hpc.ac.uk/events/code-of-conduct) and [guide for handling harassment](http://www.universe-hpc.ac.uk/events/code-of-conduct/respond-to-incident) at our events.
+The staff dedicated to enforcing the Code of Conduct are prepared to handle the incident. They are all informed of the [Code of Conduct policy]({{ site.baseurl}}/events/code-of-conduct) and [guide for handling harassment]({{ site.baseurl}}/events/code-of-conduct/respond-to-incident) at our events.
 
 1. Report the harassment incident via email to one of the staff listed above. All reports are confidential.
 2. When reporting the event, try to gather as much information as possible, but do not interview people about the incident. A member of staff will assist you in writing the report/collecting information.
