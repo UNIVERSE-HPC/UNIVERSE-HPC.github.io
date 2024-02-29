@@ -58,7 +58,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ## Procedure for reporting and responding to Harassment
 - [Attendee procedure for incident reporting]({{ site.baseurl}}/events/code-of-conduct/report-incident)
-- [Staff procedure for responding to incidents](http://www.universe-hpc.ac.uk/events/code-of-conduct/respond-to-incident)
+- [Staff procedure for responding to incidents]({{ site.baseurl}}/events/code-of-conduct/respond-to-incident)
 
 ## Licence
 
