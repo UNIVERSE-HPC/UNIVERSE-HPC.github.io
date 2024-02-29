@@ -28,6 +28,8 @@ This talk will walk you through a series of educational examples where programme
 
 Please read [our event privacy notice](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/secretariat/public/ICL---Events-privacy-notice---10-October-2018.pdf).
 
+**Code of conduct**: This event takes place under our [Code of Conduct]({{ site.baseurl }}/events/code-of-conduct).
+
 #### Join our email list
 
 To stay in touch with our project activities and plans you can subscribe to our
