@@ -8,7 +8,7 @@ author_profile: false
 
 ---
 
-Familiarise yourself with the [Code of Conduct policy](http://www.universe-hpc.ac.uk/events/code-of-conduct).
+Familiarise yourself with the [Code of Conduct policy]({{ site.baseurl}}/events/code-of-conduct).
 
 Also have a good understanding of what is expected from an attendee that wants to report a harassment incident ([read the reporting guidelines]({{ site.baseurl}}/events/code-of-conduct/report-incident)).
 
