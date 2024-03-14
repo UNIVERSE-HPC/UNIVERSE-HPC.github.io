@@ -30,6 +30,8 @@ uhpc_menu:
     children:
       - title: "Project Events"
         url: "/events/"
+      - title: "External Events"
+        url: "/events/external-events/"
       - title: "Byte-sized RSE Sessions"
         url: "/events/byte-sized-rse/"
 
