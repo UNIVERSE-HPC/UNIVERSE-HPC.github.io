@@ -19,6 +19,8 @@ Here we provide details of upcoming and past UNIVERSE-HPC project events.
 You can find details of our monthly Byte-sized RSE sessions on the separate
 [Byte-sized RSE page]({{ site.baseurl}}/events/byte-sized-rse/).
 
+These are the [External Events]({{ site.baseurl}}/events/external-events) we have been participating in.
+
 {% comment %}
 Put a placeholder for future events if there are none in the system.
 Get a date of the first event and if it's before the current date, we
