@@ -7,9 +7,8 @@ image_caption: <small>Photo by <a href="https://unsplash.com/@alexander_tsang?ut
 date: 23-01-2024 11:00 GMT
 time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Byte-sized+RSE+Session+3+-+Introduction+to+EasyBuild&iso=20240123T11&p1=136&ah=1&am=30" target="_blank" rel="noopener noreferrer">11:00-12:30 GMT</a>
 instructors: Jörg Saßmannshausen
-slides: 
-slides_tutorial: 
-podcast: 
+slides: "http://sassy.formativ.net/talks/talks01.html#"
+podcast: "https://codeforthought.buzzsprout.com/1326658/14361557-en-bytesized-rse-easy-does-it-with-easybuild-jorg-sassmannshausen"
 ---
 
 <strong>Registration:</strong> <a href="https://forms.gle/WPb3XMigY86PjdqQ9"
