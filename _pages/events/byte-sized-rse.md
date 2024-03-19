@@ -21,6 +21,8 @@ podcast series.
 See below for details of upcoming sessions and links to podcasts and other 
 outputs from previous byte-sized RSE sessions.
 
+Our byte-sized RSE events are run under the [UNIVERSE-HPC Code of Conduct]({{ site.baseurl }}/events/code-of-conduct).
+
 For any questions related to the series, or if you'd like to run a session on a 
 topic that we've not yet covered, you can get in touch with 
 [Jeremy Cohen](https://www.imperial.ac.uk/people/jeremy.cohen) or 
