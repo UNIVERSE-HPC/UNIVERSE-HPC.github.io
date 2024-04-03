@@ -12,3 +12,4 @@ sidebar:
  
  - [Case Studies]({{ site.baseurl }}/resources/case-studies/)
  - [Training Material]({{ site.baseurl }}/resources/training-material/)
+ - [News and Blog Posts]({{ site.baseurl }}/resources/news-blogs/)
