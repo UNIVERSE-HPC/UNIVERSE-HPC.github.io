@@ -21,8 +21,6 @@ uhpc_menu:
         url: "/team/"
       - title: "About ExCALIBUR"
         url: "/about/#about-excalibur"
-      - title: "Training Pathways"
-        url: "/about/pathways/"
       
   
   - title: "Events"
@@ -39,12 +37,8 @@ uhpc_menu:
     children:
       - title: "Case Studies"
         url: "/resources/case-studies"
-      - title: "Publications"
-        url: "/resources/publications"
       - title: "Training Material"
         url: "/resources/training-material"
-      - title: "Surveys"
-        url: "/resources/surveys"
       - title: "News and Blog Posts"
         url: "/resources/news-blogs"
         
