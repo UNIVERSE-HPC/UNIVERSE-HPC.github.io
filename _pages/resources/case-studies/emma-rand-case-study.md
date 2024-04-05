@@ -28,6 +28,7 @@ In the future, Emma would like all domains to include foundational research soft
 Workshops are not a test. It is expected that you often don’t know how to start, make a lot of mistakes and need help. It is expected that you are familiar with independent study content before the workshop. However, you need not remember or understand every detail as the workshop should build and consolidate your understanding.
   
   ### Tips:
+  
        - Don’t worry about making mistakes
        - Don’t let what you can not do interfere with what you can do
        - Discussing code with your neighbours will help
