@@ -26,17 +26,7 @@ Data analysis and computation skills are assessed with the “Becoming a Bioscie
 In the future, Emma would like all domains to include foundational research software skills in their undergraduate curricula but until that happens, all Biology students at York have the opportunity to learn vital software skills in an open and welcoming environment.
 
 
-Excerpt from the Code of Conduct.
-
-Workshops are not a test. It is expected that you often don’t know how to start, make a lot of mistakes and need help. It is expected that you are familiar with independent study content before the workshop. However, you need not remember or understand every detail as the workshop should build and consolidate your understanding. Tips
-
-- don’t worry about making mistakes
-- don’t let what you can not do interfere with what you can do
-- discussing code with your neighbours will help
-- there are no stupid questions
-- a little bit of engagement and practice is always better than none
-- if you get behind, just pick up where you left off rather than jumping in. It is fine to work on a previous week’s workshop
-
+![Code of conduct - 2](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/assets/106165178/97101f61-f91c-4621-bdec-dece61c58a46)
 
 TEXT BOX
 
