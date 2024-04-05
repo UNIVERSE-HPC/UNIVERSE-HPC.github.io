@@ -24,10 +24,10 @@ Data analysis and computation skills are assessed with the “Becoming a Bioscie
 
 In the future, Emma would like all domains to include foundational research software skills in their undergraduate curricula but until that happens, all Biology students at York have the opportunity to learn vital software skills in an open and welcoming environment.
 
-## Excerpt from the Code of Conduct:
-# Workshops are not a test. It is expected that you often don’t know how to start, make a lot of mistakes and need help. It is expected that you are familiar with independent study content before the workshop. However, you need not remember or understand every detail as the workshop should build and consolidate your understanding.
+# Excerpt from the Code of Conduct:
+Workshops are not a test. It is expected that you often don’t know how to start, make a lot of mistakes and need help. It is expected that you are familiar with independent study content before the workshop. However, you need not remember or understand every detail as the workshop should build and consolidate your understanding.
 
-# Tips:
+## Tips:
        - Don’t worry about making mistakes
        - Don’t let what you can not do interfere with what you can do
        - Discussing code with your neighbours will help
@@ -35,19 +35,5 @@ In the future, Emma would like all domains to include foundational research soft
        - A little bit of engagement and practice is always better than none
        - If you get behind, just pick up where you left off rather than jumping in. It is fine to work on a previous week’s workshop
 
+![Key aspects1](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/assets/106165178/54e04375-e807-4075-a771-0b48b84f60e6)
 
-TEXT BOX
-
-###Key Aspects###
-- 450 undergraduate students per year, taught in 4 groups of up to 120
-- Start by introducing the code of conduct to set expectations
-- Learn from mistakes
-- Encourage collaborative working
-- Focus on effort and time rather than progress through the material
-
-Multiple routes back to catch up
-- Full worked examples provided for learning
-- Anonymous Q&A board
-- Sessions missed? Students just rejoin from where they left off.
-
-Course teaches the full research workflow with a focus on code usability, reproducibility and documentation.
