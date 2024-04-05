@@ -26,8 +26,7 @@ In the future, Emma would like all domains to include foundational research soft
 
 # Excerpt from the Code of Conduct:
 Workshops are not a test. It is expected that you often don’t know how to start, make a lot of mistakes and need help. It is expected that you are familiar with independent study content before the workshop. However, you need not remember or understand every detail as the workshop should build and consolidate your understanding.
-
-## Tips:
+  ### Tips:
        - Don’t worry about making mistakes
        - Don’t let what you can not do interfere with what you can do
        - Discussing code with your neighbours will help
@@ -35,5 +34,6 @@ Workshops are not a test. It is expected that you often don’t know how to star
        - A little bit of engagement and practice is always better than none
        - If you get behind, just pick up where you left off rather than jumping in. It is fine to work on a previous week’s workshop
 
-![Key aspects1](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/assets/106165178/54e04375-e807-4075-a771-0b48b84f60e6)
+![Key aspects new](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/assets/106165178/316ef477-37a7-412d-84cd-839533e1ade5)
+
 
