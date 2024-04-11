@@ -24,9 +24,11 @@ article](https://hypothesis.works/articles/what-is-property-based-testing/).
 The session will provide a general introduction to the topic followed by an
 interactive tutorial where you'll have a chance to try out writing your own
 tests. Please note that to participate in the interactive part of the session,
-you'll need Python installed on your computer and be able to add new Python
+you'll need Python installed on your computer and be able to install new Python
 libraries with the `pip` package management tool. We'll do this via a virtual
 environment so you won't require admin access if you have Python, `pip` and
 `venv` available. We also recommend that you some basic familiarity with
 writing tests in Python via Python's `unittest` framework, `pytest` or a
-similar testing library.
+similar testing library. You'll also need to have Git installed since we'll
+be cloning an example repository from GitHub which will contain some initial
+content for the interactive exercises.
