@@ -17,7 +17,7 @@ author_profile: false
 - 🕒 **Friday 26th April** 2024, **[10:00 - 16:30 BST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=UNIVERSE-HPC+Course+Materials+Mini+Hackathon&iso=20240426T10&p1=1233&ah=6&am=30)**
 - 🌍 In person in Oxford and Online via Zoom
 
-The UNIVERSE-HPC project team is organising a one-day Hackathon to enhance the course materials that we’ve been developing over the past couple of years 🎉 This will be a great opportunity to network with people interested in training for RSEs, contribute to training materials, and learn about a new training platform!
+The UNIVERSE-HPC project team is organising a one-day Hackathon to enhance the course materials that we’ve been developing over the past couple of years 🎉 This will be a great opportunity to network with people interested in training for RSEs, contribute to [training materials](https://train.oxrse.uk/material), and learn about *Gutenberg*, a new training platform!
 
 There will be three strands that you can get involved in and contribute to:
 

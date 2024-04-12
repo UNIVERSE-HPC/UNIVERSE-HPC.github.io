@@ -10,5 +10,5 @@ time-range-link: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=UNIV
 event_page: 2024-04-26_hackathon-oxford
 slides: ""
 video: ""
-overview: "In this one-day Hackathon, we're inviting you to help us enhance the training materials we've been developing over the last couple of years. This will be a great opportunity to network with people interested in training for RSEs, contribute to training materials and learn about a new training platform!<br/><a href=\"https://www.universe-hpc.ac.uk/events/code-of-conduct\" target=\"_blank\">Event code of conduct</a>"
+overview: "In this one-day Hackathon, we're inviting you to help us enhance the training materials we've been developing over the last couple of years. This will be a great opportunity to network with people interested in training for RSEs, contribute to [training materials](https://train.oxrse.uk/material) and learn about *Gutenberg*, a new training platform!<br/><a href=\"https://www.universe-hpc.ac.uk/events/code-of-conduct\" target=\"_blank\">Event code of conduct</a>"
 ---
