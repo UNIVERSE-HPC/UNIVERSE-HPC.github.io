@@ -31,6 +31,14 @@ This will also be a fantastic opportunity to learn about using and deploying Gut
 
 Please read [our event privacy notice](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/secretariat/public/ICL---Events-privacy-notice---10-October-2018.pdf).
 
+### Provisional agenda
+
+- 10:00 - 11:00 Introduction to the project and event, including an introduction to Gutenberg
+- 11:00 - 13:00 First block of collaborative work
+- 13:00 - 14:00 Lunch break
+- 14:00 - 16:00 Second block of collaborative work
+- 16:00 - 16:30 Wrap-up
+
 **Code of conduct**: This event takes place under our [Code of Conduct]({{ site.baseurl }}/events/code-of-conduct).
 
 #### Join our email list
