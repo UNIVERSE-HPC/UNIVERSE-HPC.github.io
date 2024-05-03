@@ -4,7 +4,7 @@ series: 2
 episode: 6
 image: "/assets/images/byte-sized-rse/20240419-property-based-testing.jpg"
 image_caption: <small>Photo by <a href="https://unsplash.com/@wocintechchat">Christina @ wocintechchat.com</a> on <a href="https://unsplash.com/photos/macbook-pro-2JDDn7iSGH8">Unsplash</a></small>
-date: 19-04-2024 13:00 BST (UTC+1)
+date: 19-04-2024 13:00 BST
 time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Byte-sized+RSE+Session+6+-+Property-based+Testing+in+Python&iso=20240419T13&p1=136&ah=1&am=30" target="_blank" rel="noopener noreferrer">13:00-14:30 BST (UTC+1)</a>
 instructors: Steve Crouch, Jeremy Cohen
 slides: 
