@@ -25,7 +25,6 @@ intro:
       <br/>
       <strong style="font-size: 0.8rem">News: </strong>
       </div>
-      <div style="font-size: 0.6rem; margin-bottom: 6px;">Join us for our <a href="/events/2024-04-26_hackathon-oxford/">Course Materials Mini Hackathon</a> on 26 April 2024.</div>
       <div style="font-size: 0.6rem; margin-bottom: 14px;">Our 2023-2024 season of monthly <a href="/events/byte-sized-rse/">byte-sized RSE sessions</a> is underway.</div>
 
 
