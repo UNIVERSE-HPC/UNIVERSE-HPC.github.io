@@ -41,6 +41,8 @@ uhpc_menu:
         url: "/resources/training-material"
       - title: "News and Blog Posts"
         url: "/resources/news-blogs"
+      - title: "Video Archive"
+        url: "/resources/videos"
         
   - title: "Privacy Policy"
     url: "/privacy/"
