@@ -1,5 +1,5 @@
 ---
-title: UNIVERSE-HPC Seminar Series - Structure and Delivery Format for Online HPC Courses
+title: Structure and Delivery Format for Online HPC Courses
 speaker: Dr David Henty
 affiliation: EPCC, University of Edinburgh
 location: EPCC, University of Edinburgh and online
