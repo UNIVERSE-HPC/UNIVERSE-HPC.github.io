@@ -40,8 +40,8 @@ The UNIVERSE-HPC project is contributing to many of those activities.
 The UNIVERSE-HPC members led and contributed the following community efforts and events:
 
 - ISC’23 BoF  - Understanding Community Perspectives on HPC Skills and Training Pathways 
-   - Survey results from the session - https://zenodo.org/records/8321376 
-   - JOSCE - https://doi.org/10.22369/issn.2153-4136/15/1/9 (SC’23 workshop submission)
+   - [Survey results from the session](https://zenodo.org/records/8321376) 
+   - [JOSCE](https://doi.org/10.22369/issn.2153-4136/15/1/9) (SC’23 workshop submission)
 - SC’23 BoF - Pathfinding in HPC Education and Training
    - Building HPC Learning Pathways: Understanding our community (PEARC’24 long paper submission - Accepted)
    - Developing HPC Learning Pathways: Challenges and Recommendations (PEARC’24 short paper submission - Submitted)
@@ -49,9 +49,9 @@ The UNIVERSE-HPC members led and contributed the following community efforts and
    - This session will attempt to capture/outline example pathways through small group activities 
 
 
-Other related initiatives
+***Other related initiatives***
 
-HPC-ED - https://hpc-ed.github.io/
-HPC-CF - https://www.hpc-certification.org/
-INTERSECT - https://intersect-training.org/
-CodeRefinery - https://coderefinery.org/ 
+- [HPC-ED](https://hpc-ed.github.io/)
+- [HPC-CF](https://www.hpc-certification.org/)
+- [INTERSECT](https://intersect-training.org/)
+- [CodeRefinery](https://coderefinery.org/)
