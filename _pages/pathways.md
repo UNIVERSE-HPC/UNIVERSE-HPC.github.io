@@ -10,7 +10,8 @@ sidebar:
 ---
 **Challenges in RSE in HPC education and training**
 
-![Learning Pathways](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/assets/106165178/e1f661d4-9006-4373-bd43-b59ae9ce0576)
+![Learning Pathways1](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/assets/106165178/45061869-9cbc-4977-8c7c-6b989e83dd82)
+
 
 The HPC community is constantly growing and diversifying trying to keep up with the explosion of digital research across most disciplines. Defining the level and scope of skills required from RSEs specialising in HPC is becoming less straightforward due to  increasingly unique educational and professional backgrounds, and skill sets multiplying to mirror emerging and converging technologies. The educational landscape expands in every direction creating both opportunities and challenges. 
 
