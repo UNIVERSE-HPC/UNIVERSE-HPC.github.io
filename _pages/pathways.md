@@ -19,7 +19,7 @@ Despite the quality and quantity of existing training materials, developing HPC 
 
 The discovery and development of professional skills can be made easier by shifting from a fixed linear style of teaching towards more personalised concept-based learning that better aligns with adult learning models (e.g. learning a specific skill to complete a specific task in a limited time frame).
 
-An example pathway created for the ISC'24 BoF session - "Developing a Sustainable Future for HPC and RSE Skills: Training Pathways and Structures". A clean worksheet can be downloaded [here](universe-hpc.github.io/assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)
+An example pathway created for the ISC'24 BoF session - "Developing a Sustainable Future for HPC and RSE Skills: Training Pathways and Structures". A clean worksheet can be downloaded [here](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/blob/6324366cae1e197281c7d20946a3732265fcdf2d/assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)
 
 ***Learning Pathways***
 
@@ -46,10 +46,15 @@ The UNIVERSE-HPC members led and contributed the following community efforts and
    - [Survey results from the session](https://zenodo.org/records/8321376) 
    - [JOSCE](https://doi.org/10.22369/issn.2153-4136/15/1/9) (SC’23 workshop submission)
 - SC’23 BoF - Pathfinding in HPC Education and Training
-   - Building HPC Learning Pathways: Understanding our community (PEARC’24 long paper submission - Accepted)
-   - Developing HPC Learning Pathways: Challenges and Recommendations (PEARC’24 short paper submission - Submitted)
-- ISC’24 BoF - Developing a Sustainable Future for HPC and RSE Skills: Training Pathways and Structures 
-   - This session will attempt to capture/outline example pathways through small group activities 
+   - The survey used during this session resulted in the following two PEARC’24 papers (both will appear in the conference proceedings after the conference in July)
+     - Building HPC Learning Pathways: Understanding our community (PEARC’24 long paper submission)
+     - Developing HPC Learning Pathways: Challenges and Recommendations (PEARC’24 short paper submission)
+- ISC’24 BoF - Developing a Sustainable Future for HPC and RSE Skills: Training Pathways and Structures
+     - [Slides](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/blob/6324366cae1e197281c7d20946a3732265fcdf2d/assets/slides/Developing%20a%20sustainable%20future%20for%20HPC%20and%20Research%20Software%20Engineering%20skills.pdf)
+     - [Survey Results](https://zenodo.org/records/11395712)
+     - Worksheet for the exercise (to be uploaded)
+     - This session attempted to outline example pathways through small group activities - the results will be processed and shared with the community shortly. 
+ 
 
 ***Other related initiatives***
 
