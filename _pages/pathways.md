@@ -19,6 +19,8 @@ Despite the quality and quantity of existing training materials, developing HPC 
 
 The discovery and development of professional skills can be made easier by shifting from a fixed linear style of teaching towards more personalised concept-based learning that better aligns with adult learning models (e.g. learning a specific skill to complete a specific task in a limited time frame).
 
+An example pathway created for the ISC'24 BoF session -  "Developing a Sustainable Future for HPC and RSE Skills: Training Pathways and Structures". A clean worksheet can be downloaded <a href=\"..//assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>
+
 ***Learning Pathways***
 
 Personalised learning to be effective needs to be both flexible and intentional. Certain structures are still needed to ensure learners gain specific skills in the right context without creating significant knowledge gaps that could impede the future skill progression.  That’s where the concept of learning pathways comes in. 
