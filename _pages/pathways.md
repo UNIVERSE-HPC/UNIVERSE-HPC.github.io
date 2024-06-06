@@ -50,7 +50,7 @@ The UNIVERSE-HPC members led and contributed the following community efforts and
      - Building HPC Learning Pathways: Understanding our community (PEARC’24 long paper submission)
      - Developing HPC Learning Pathways: Challenges and Recommendations (PEARC’24 short paper submission)
 - ISC’24 BoF - Developing a Sustainable Future for HPC and RSE Skills: Training Pathways and Structures
-     - [Slides](https://github.com/UNIVERSE-HPC/UNIVERSE-HPC.github.io/blob/6324366cae1e197281c7d20946a3732265fcdf2d/assets/slides/Developing%20a%20sustainable%20future%20for%20HPC%20and%20Research%20Software%20Engineering%20skills.pdf)
+     - [Slides](https://www.universe-hpc.ac.uk/assets/slides/Developing%20a%20sustainable%20future%20for%20HPC%20and%20Research%20Software%20Engineering%20skills.pdf)
      - [Survey Results](https://zenodo.org/records/11395712)
      - Worksheet for the exercise (to be uploaded)
      - This session attempted to outline example pathways through small group activities - the results will be processed and shared with the community shortly. 
