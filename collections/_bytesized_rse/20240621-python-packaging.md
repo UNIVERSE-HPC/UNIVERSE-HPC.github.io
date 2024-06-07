@@ -2,7 +2,7 @@
 title: Python packaging and pip
 series: 2
 episode: 8
-image: "/assets/images/byte-sized-rse/20240621-packaging.jpg"
+image: "/assets/images/byte-sized-rse/20240621-packaging-small.jpg"
 image_caption: <small>Photo by <a href="https://unsplash.com/@agenlaku">Agenlaku Indonesia</a> on <a href="https://unsplash.com/photos/three-brown-boxes-sitting-on-top-of-a-yellow-surface-pxz1DfpNEs0">Unsplash</a></small>
 date: 21-06-2024 13:00 BST
 time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Byte-sized+RSE+Season+2,+Session+8+-+Python+packaging&iso=20240621T13&p1=136&ah=1&am=30" target="_blank" rel="noopener noreferrer">13:00-14:30 BST (UTC+1)</a>
