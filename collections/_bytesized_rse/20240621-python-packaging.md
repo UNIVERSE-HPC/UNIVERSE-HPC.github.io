@@ -22,6 +22,6 @@ There are different package infrastructures in Python and we’ll focus here on 
 We’ll begin by looking at the use of pip to install packages and what actually happens when you install a package.
 Then we’ll look at the anatomy of a Python package and create a simple package ourselves, to see how one is structured and built.
  
-**Prerequisites**: In order to be able to participate in the practical/interactive part of this session, you’ll need a computer with a regular CPython installation (i.e. not Anaconda) and pip available.
+**Prerequisites**: In order to be able to participate in the practical/interactive part of this session, you’ll need a computer with a regular Python installation (i.e. not Anaconda) and pip available.
 You’ll also need some basic familiarity with working on the command line and be familiar with a command line-based editor such as nano, vi or emacs to enable you to easily edit files.
 The tutorial may also work using pip via Anaconda but this is not a supported setup for this session.
