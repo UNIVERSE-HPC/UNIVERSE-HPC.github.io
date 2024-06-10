@@ -92,9 +92,16 @@ show that there are no future events.
         {% endif %}
       </strong>
     </p>
+    {% if event.speaker and event.speaker != "" %}
     <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Speaker: </strong>
         {{ event.speaker }}{% if event.affiliation and event.affiliation != "" %}, {{ event.affiliation }}{% endif %}
     </p>
+    {% endif %}
+    {% if event.location and event.location != "" %}
+    <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Location: </strong>
+        {{ event.location }}
+    </p>
+    {% endif %}
     <p style="font-size: 0.7em; margin-bottom: 0;"><strong>Date: </strong>{{ event.date | date: "%A %e %B %Y" }},
         {% if event.time-range-link and event.time-range-link != "" %}
           <a href="{{ event.time-range-link }}" target="_blank" rel="noopener noreferrer">{{ event.time-range }}</a>
