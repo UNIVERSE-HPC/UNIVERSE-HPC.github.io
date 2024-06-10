@@ -14,7 +14,7 @@ author_profile: false
 
 ## Overview:
 
-- 🕒 **Friday 12th April** 2024, **[10:00 - 16:30 BST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=UNIVERSE-HPC+Course+Materials+Hackathon&iso=20240712T10&p1=1233&ah=6&am=30)**
+- 🕒 **Friday 12th July** 2024, **[10:00 - 16:30 BST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=UNIVERSE-HPC+Course+Materials+Hackathon&iso=20240712T10&p1=1233&ah=6&am=30)**
 - 🌍 In person in Oxford and Online via Zoom
 
 Following up on our successful first Hackathon, the UNIVERSE-HPC project team is organising another Hackathon to continue working on enhancing our course materials. Anyone with an interest in training for RSEs is welcome - no need to have joined the previous Hackathon to join us for this one 💖
