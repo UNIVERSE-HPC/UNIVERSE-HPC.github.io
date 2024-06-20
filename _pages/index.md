@@ -50,7 +50,7 @@ feature_row:
     alt: "Train tracks"
     title: "Training pathways"
     excerpt: "Learn about the training pathways we're developing."
-    url: "/pathways"
+    url: "/about/pathways"
     btn_label: "Training pathways"
     btn_class: "btn--light-outline btn--small"
 ---
