@@ -44,5 +44,5 @@ information](https://www.ed.ac.uk/information-services/computing/comms-and-colla
 on subscribing to a "Sympa" mailing list on the University of Edinburgh
 website.</small>
 
-If you have any problems joining the mailing list please contact us at
-[our email](mailto:s.sukhiani@epcc.ed.ac.uk) to be added manually.
+If you have any problems joining the mailing list please
+[contact us](mailto:s.sukhiani@epcc.ed.ac.uk) to be added manually.
