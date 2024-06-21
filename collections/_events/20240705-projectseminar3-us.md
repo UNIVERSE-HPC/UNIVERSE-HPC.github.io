@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Challenges and Successes of Delivering Training at a University"
 speaker: Philippa Broadbent
-affiliation: Research Software Engineer, Southampton Research Software Group
+affiliation: Research Software Engineer, Southampton Research Software Group, University of Southampton
 location: Online
 hybrid: False
 image: "/assets/images/events/20240705-seminar3-trainingatuni.jpg"
