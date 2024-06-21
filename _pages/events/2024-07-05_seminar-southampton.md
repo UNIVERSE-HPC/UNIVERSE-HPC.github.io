@@ -19,7 +19,7 @@ author_profile: false
 
 - 🕒 **Friday 5th July** 2024, **[14:00 - 15:00 BST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Navigating+the+Challenges+and+Successes+of+Delivering+Training+at+a+University&iso=20240705T14&p1=136&ah=1)**
 - 🌍 Online via Zoom
-- 🗣️ **Philippa Broadbent**, Research Software Engineer at Southampton Research Software Group.
+- 🗣️ **Philippa Broadbent**, Research Software Engineer at [Southampton Research Software Group](https://rsgsoton.net/), University of Southampton
 
 Running training at a university presents a diverse set of challenges, from securing funding, to teaching academics of all disciplines, to scaling up provision in line with demand. This talk will discuss some of the obstacles we’ve encountered while running training in computational research skills at the University of Southampton, drawing on my experience as the current training lead for the Southampton Research Software Group, and also the experiences of other long-standing members of the group.  After talking through the history of the group’s training provision, from the first instances of Software Carpentry training run at Southampton back in 2015 to our current training offerings, I’ll discuss the various difficulties we’ve encountered and the solutions we’ve implemented to address them.
 
