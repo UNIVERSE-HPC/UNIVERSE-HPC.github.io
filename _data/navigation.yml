@@ -5,6 +5,8 @@ main:
     url: /team/
   - title: "Events"
     url: /events/
+  - title: "Blog Posts"
+    url: /resources/news-blogs/
   - title: "Resources"
     url: /resources/
   - title: "Privacy Policy"
