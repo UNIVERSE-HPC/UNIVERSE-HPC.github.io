@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: UNIVERSE-HPC Project Seminar Series
-permalink: /events/2024-010-24_seminar-oxford/
+permalink: /events/2024-10-24_seminar-oxford/
 author_profile: false
 
 
