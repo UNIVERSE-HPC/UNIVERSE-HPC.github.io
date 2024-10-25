@@ -17,7 +17,7 @@ author_profile: false
 - 🕒 **Friday 15th November** 2024, **[10:00 - 16:30 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=UNIVERSE-HPC+Hackathon&iso=20241115T10&p1=136&ah=6)**
 - 🌍 In person at Imperial College London, White City Campus and Online via Zoom
 
-UNIVERSE-HPC is organising a Hackathon to enhance training materials for essential and advanced skills for Research Software Engineers. You can explore the existing topics [here](https://train.oxrse.uk/material).Participants will be free to work on identified issues or open new ones!
+UNIVERSE-HPC is organising a Hackathon to enhance training materials for essential and advanced skills for Research Software Engineers. You can explore the existing topics [here](https://train.oxrse.uk/material). Participants will be free to work on identified issues or open new ones!
 
 The focus of this Hackathon will be on training infrastructure: enhancing the Gutenberg platform and its accessibility, improving the interoperability of our training materials and ensuring their usability :sparkles:
 
