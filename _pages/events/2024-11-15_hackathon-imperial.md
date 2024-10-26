@@ -8,7 +8,9 @@ author_profile: false
 
 ---
 
-**Join us for the third UNIVERSE-HPC Hackathon on Friday 15 November from 10:00 to 16:30 UTC**, which will take place **in person at the White City Campus of Imperial College London and online**.
+**Join us for the third UNIVERSE-HPC Hackathon on Friday 15 November from 10:00 to 16:30 UTC**, which will take place **in person at Imperial College London's [White City Campus](https://www.imperial.ac.uk/white-city-campus/), and online**.
+
+Everyone is welcome, whether you've participated in a previous UNIVERSE-HPC hackathon or not.
 
 ### [Register now](https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB9G-GHYM0EhAmv0YuWxLZoZURUpMSEdYVDRWMkc3T0ZZN0lQUUFLMElGUi4u).
 
