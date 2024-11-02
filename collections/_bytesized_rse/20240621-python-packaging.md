@@ -7,9 +7,9 @@ image_caption: <small>Photo by <a href="https://unsplash.com/@agenlaku">Agenlaku
 date: 21-06-2024 13:00 BST
 time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Byte-sized+RSE+Season+2,+Session+8+-+Python+packaging&iso=20240621T13&p1=136&ah=1&am=30" target="_blank" rel="noopener noreferrer">13:00-14:30 BST (UTC+1)</a>
 instructors: Jeremy Cohen and Steve Crouch
-slides: 
-slides_tutorial: 
-podcast: 
+slides: "https://docs.google.com/presentation/d/1dXIl_UPINkqP3nKBQ1oo8D-rbLEi6iTr7nnqdpLd_7Y"
+slides_tutorial: "https://docs.google.com/presentation/d/1BoFUp1tACNBqLKl8KMsKT5Mt0bDQ2lGRyE3TNdrqG00"
+podcast: "https://codeforthought.buzzsprout.com/1326658/episodes/15300718-en-bytesized-rse-python-packaging-liam-pattinson-laszlo-sranger"
 ---
 
 <strong>Registration:</strong> <a href="https://forms.gle/UwNxx5GvtAtzxKXu5"
