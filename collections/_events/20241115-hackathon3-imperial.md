@@ -1,6 +1,6 @@
 ---
 title: "UNIVERSE-HPC Training Infrastructure Hackathon"
-location: [White City Campus](https://www.imperial.ac.uk/white-city-campus/), Imperial College London and Online
+location: <a href="https://www.imperial.ac.uk/white-city-campus/" target="_blank" rel="noopener noreferer">White City Campus</a>, Imperial College London and Online
 hybrid: True
 image: "/assets/images/events/20241115_hackathon3-imperial.jpg"
 image_caption: <small>Photo by <a href="https://commons.wikimedia.org/wiki/User:Shadowssettle">Shadowssettle</a> on <a href="hhttps://commons.wikimedia.org/wiki/File:Entrance_place,_White_City_North_Campus.jpg">Wikimedia Commons</a></small>
