@@ -7,9 +7,9 @@ image_caption: <small>Photo by <a href="https://unsplash.com/@wocintechchat">Chr
 date: 19-04-2024 13:00 BST
 time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Byte-sized+RSE+Session+6+-+Property-based+Testing+in+Python&iso=20240419T13&p1=136&ah=1&am=30" target="_blank" rel="noopener noreferrer">13:00-14:30 BST (UTC+1)</a>
 instructors: Steve Crouch, Jeremy Cohen
-slides: 
-slides_tutorial: 
-podcast: 
+slides: "https://docs.google.com/presentation/d/1FZwJMTpcsmJwF2sxq_zAmXa_XwuWCUvawbeR-pLqptQ"
+slides_tutorial: "https://docs.google.com/presentation/d/1faTpXTktp0RcW5IkyTZIjJC_Gm-Y88B1r1NTNBXub20"
+podcast: "https://codeforthought.buzzsprout.com/1326658/episodes/14897745-en-bytesized-rse-property-based-testing-duncan-mcgregor-and-nicholas-del-grosso"
 ---
 
 <strong>Registration:</strong> <a href="https://forms.gle/Ue3S8SSCi9MvreCY9"
