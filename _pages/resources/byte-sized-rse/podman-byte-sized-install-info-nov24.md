@@ -1,6 +1,12 @@
-# Podman for the Byte-sized RSE Containers Session: Information and Installation Guidance
+---
+layout: single
+classes: wide
+title: "Byte-sized RSE: Podman Information and Installation Guidance"
+permalink: /resources/byte-sized-rse/podman-info
+author_profile: false
+---
 
-To support our byte-sized RSE containers session, we'll be using [**podman**](https://podman.io/).
+To support our byte-sized RSE session on Containers (27th Nov 2024), we'll be using [**podman**](https://podman.io/).
 
 ### Podman Overview
 
@@ -58,7 +64,7 @@ At this point you can run `podman machine start` to try and start up the podman 
 
 For Windows, there are two options for which underlying virtualisation framework to use to run your podman VM - you can either use the Windows Subsystem for Linux v2 (WSL2) or you can use Hyper-V. In either case, if you're not already using the selected framework you may need to enable some additional options in Windows. The following [installing podman](https://podman-desktop.io/docs/installation/windows-install#installing-podman) page, while targeted at installation of Podman Desktop, which we are not using, provides some useful information on how to enable WSL2 or Hyper-V on your system if you haven't already enabled/used one of these tools.
 
-At this point you can run the `.exe` podman installer file that you downloaded from GitHub and follow the instructions to install podman.
+You can now run the `.exe` podman installer file that you downloaded from GitHub and follow the instructions to install podman.
 
 If the installation completes sucessfully open a new command line (CMD) or PowerShell window and run `podman --version` to check that the podman command is available on the command line.
 
