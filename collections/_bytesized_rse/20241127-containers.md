@@ -25,4 +25,4 @@ However, if you're keen to work with Docker, the material that we cover in this 
 
 **Prerequisites**: In order to be able to participate in the practical/interactive part of this session, you’ll need to install and test podman on your computer prior to the session.
 
-There are detailed [instructions about installing podman](https://podman.io/docs/installation) on the podman website but we've also provided some futher information on podman, why we've chosen to use it and installing podman on Linux, macOS or Windows at: https://www.universe-hpc.ac.uk/resources/byte-sized-rse/podman-info
+There are detailed [instructions about installing podman](https://podman.io/docs/installation) on the podman website but we've also provided some futher information on podman, why we've chosen to use it and installing podman on Linux, macOS or Windows at: [https://www.universe-hpc.ac.uk/resources/byte-sized-rse/podman-info](https://www.universe-hpc.ac.uk/resources/byte-sized-rse/podman-info)
