@@ -37,12 +37,12 @@ topic that we've not yet covered, you can get in touch with
   {% assign post_date = episode.date | date: '%s' %}
   {% if mention_future == "no" and post_date >= current_date %}
   <div>
-    <h2>Future Byte-sized RSE events</h2>
+    <h2 id="future-sessions">Future Byte-sized RSE events</h2>
   </div>
   {% assign mention_future = "yes" %}
   {% elsif mention_previous == "no" and post_date < current_date %}
   <div>
-    <h2>Past Byte-sized RSE events</h2>
+    <h2 id="past-sessions">Past Byte-sized RSE events</h2>
   </div>
   {% assign mention_previous = "yes" %}
   {% endif %}

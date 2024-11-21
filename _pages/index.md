@@ -25,7 +25,7 @@ intro:
       <br/>
       <strong style="font-size: 0.8rem">News: </strong>
       </div>
-      <div style="font-size: 0.6rem; margin-bottom: 14px;">Our 2023-2024 season of monthly <a href="/events/byte-sized-rse/">byte-sized RSE sessions</a> is underway.</div>
+      <div style="font-size: 0.6rem; margin-bottom: 14px;">Our 2024-2025 season of <a href="/events/byte-sized-rse/#future-sessions">byte-sized RSE sessions</a> runs from November 2024, starting with a session on using containers with podman.</div>
 
 
 feature_row:
