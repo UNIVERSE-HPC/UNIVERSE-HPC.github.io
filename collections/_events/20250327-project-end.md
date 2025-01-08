@@ -10,5 +10,5 @@ time-range-link: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=HPC+
 event_page: 2025-03-27_project-end
 slides: ""
 video: ""
-overview: "This is the UNIVERSE-HPC end of project celebration event. This will be a great opportunity to network with people involved with the project and also the wider RSE and HPC community!<br/><a href=\"https://www.universe-hpc.ac.uk/events/code-of-conduct\" target=\"_blank\">Event code of conduct</a>"
+overview: "This event will mark the end of the UNIVERSE-HPC project. We'll have talks from members of the project as well as the wider RSE and HPC training community. This will be a great opportunity to meet and network with members of the community and find out more about the work going on in this area!<br/><a href=\"https://www.universe-hpc.ac.uk/events/code-of-conduct\" target=\"_blank\">Event code of conduct</a>"
 ---
