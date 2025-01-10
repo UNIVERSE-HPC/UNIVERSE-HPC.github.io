@@ -2,8 +2,8 @@
 title: "HPC Ready: Developing RSE and HPC skills"
 location: <a href="https://bayes-centre.ed.ac.uk/" target="_blank" rel="noopener noreferer">Bayes Centre</a>, University of Edinburgh and Online
 hybrid: True
-image: "/assets/images/events/20250207_hackathon4-imperial.jpg"
-image_caption: <small>Photo by <a href="https://stocksnap.io/author/4440">Negative Space</a> on <a href="https://stocksnap.io/photo/macbook-computer-6UHHE19YG7">Stocksnap</a></small>"
+image: "/assets/images/events/2025-03-27_project-end.jpg"
+image_caption: <small>Photo by <a href="https://commons.wikimedia.org/wiki/User:Suhongjia">Su Hongjia</a> on <a href="https://commons.wikimedia.org/w/index.php?curid=17704953">Wikimedia Commons</a></small>"
 date: 27-03-2025 10:00 UTC
 time-range: 10:00-16:00 UTC
 time-range-link: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=HPC+Ready%3A+Developing+RSE+and+HPC+skills&iso=20250327T10&p1=1440&ah=6"
