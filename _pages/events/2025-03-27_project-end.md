@@ -1,14 +1,15 @@
 ---
 layout: single
 classes: wide
-title: HPC Ready - Three years of developing RSE skills with UNIVERSE-HPC (tentative)
+title: HPC Ready - Developing RSE and HPC skills
+ 
 permalink: /events/2025-03-27_project-end/
 author_profile: false
 
 
 ---
 
-**Join us for "HPC Ready - Three years of developing RSE skills with UNIVERSE-HPC" on Thursday 27th March 2025 from 10:00 to 16:00 UTC**, which will take place **in person at the University of Edinburgh [Bayes Centre](https://bayes-centre.ed.ac.uk/), and online**.
+**Join us for "HPC Ready: Developing RSE and HPC skills" on Thursday 27th March 2025 from 10:00 to 16:00 UTC**, which will take place **in person at the University of Edinburgh [Bayes Centre](https://bayes-centre.ed.ac.uk/), and online**.
 
 Everyone is welcome!
 
@@ -16,13 +17,10 @@ Everyone is welcome!
 
 ## Overview
 
-- 🕒 **Thursday 27th March** 2025, **[10:00 - 16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=HPC+Ready+-+Three+years+of+developing+RSE+skills+with+UNIVERSE-HPC+%28tentative%29&iso=20250327T10&p1=1440&ah=6)**
+- 🕒 **Thursday 27th March** 2025, **[10:00 - 16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=HPC+Ready%3A+Developing+RSE+and+HPC+skills&iso=20250327T10&p1=1440&ah=6)**
 - 🌍 In person at the University of Edinburgh, Bayes Centre and Online via Zoom
 
-UNIVERSE-HPC is organising an event to mark the end of the UNIVERSE-HPC project. We'll have talks from members of the project as well as the wider RSE and HPC training community. This will be a great opportunity to meet and network with members of the community and find out more about the work going on in this area!
-
-The focus of this event will be ...
- :sparkles:
+UNIVERSE-HPC is organising an event to mark the end of the three years of the UNIVERSE-HPC project. We'll have talks from members of the project as well as the wider RSE and HPC training community. This will be a great opportunity to meet and network with members of the community and find out more about the work going on in this area! :sparkles:
 
 Tea, coffee, cake and lunch will be provided!
 
@@ -30,15 +28,15 @@ Please read [our event privacy notice](https://www.imperial.ac.uk/media/imperial
 
 ### Provisional agenda
 
-- 9:30 - 10:00 Coffees and Meet and Greet 🫖🥐
-- 10:00 - 11:00 Introduction and Keynote
-- 11:00 - 11:20 Introduction to learning pathways
-- 11:20 - 11:35 Lightning talk 1 - invited
-- 11:35 - 11:45 Lightning talk 2 - invited
-- 11:45 - 12:00 Coffee break
-- 12:00 - 12:45 Learning pathway activities (including reporting)
-- 12:45 - 13:45 Lunch break 🍱🥪
-- 13:45 - 15:45 To be announced
+- 10:00 - 10:30 Coffees and Meet and Greet ☕
+- 10:30 - 11:15 Introduction and Opening Keynote
+- 11:15 - 11:30 Coffee break ☕
+- 11:30 - 12:15 Introduction to learning pathways and invited Ligthning talks
+- 12:15 - 13:00 Learning pathway activities (including reporting)
+- 13:00 - 14:00 Lunch break 🍱🥪
+- 14:00 - 14:45 Lightning talks
+- 14:45 - 15:00 Coffee break ☕
+- 15:00 -15:45 Closing Keynote
 - 15:45 - 16:00 Closing remarks & evaluation survey
 
 **Code of conduct**: This event takes place under our [Code of Conduct]({{ site.baseurl }}/events/code-of-conduct).
