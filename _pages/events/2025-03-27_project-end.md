@@ -28,7 +28,7 @@ Please read [our event privacy notice](https://www.imperial.ac.uk/media/imperial
 
 ### Provisional agenda
 
-- 10:00 - 10:30 Coffees and Meet and Greet ☕
+- 10:00 - 10:30 Meet and Greet ☕
 - 10:30 - 11:15 Introduction and Opening Keynote
 - 11:15 - 11:30 Coffee break ☕
 - 11:30 - 12:15 Session on learning pathways
