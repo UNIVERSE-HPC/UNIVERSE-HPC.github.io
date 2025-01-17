@@ -32,7 +32,7 @@ Please read [our event privacy notice](https://www.imperial.ac.uk/media/imperial
 - 10:30 - 11:15 Introduction and Opening Keynote
 - 11:15 - 11:30 Coffee break ☕
 - 11:30 - 12:15 Introduction to learning pathways and invited Ligthning talks
-- 12:15 - 13:00 Learning pathway activities (including reporting)
+- 12:15 - 13:00 Break-out rooms: Learning pathway activities
 - 13:00 - 14:00 Lunch break 🍱🥪
 - 14:00 - 14:45 Lightning talks
 - 14:45 - 15:00 Coffee break ☕
