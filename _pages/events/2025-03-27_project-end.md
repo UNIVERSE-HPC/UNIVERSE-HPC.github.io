@@ -13,7 +13,7 @@ author_profile: false
 
 Everyone is welcome!
 
-### [Register now (form to be updated)](https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB5xW6C9sTFJAj9JEr0thFURUOTlJQ1RDUDlZUkxNTDJBMVdBSzRDOUlDQi4u)
+### [Register now](https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB5xW6C9sTFJAj9JEr0thFURUOTlJQ1RDUDlZUkxNTDJBMVdBSzRDOUlDQi4u)
 
 ## Overview
 
