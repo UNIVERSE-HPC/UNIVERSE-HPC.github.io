@@ -9,7 +9,7 @@ author_profile: false
 
 ---
 
-**Join us for "HPC Ready: Developing RSE and HPC skills" on Thursday 27th March 2025 from 10:00 to 16:00 UTC**, which will take place **in person at the University of Edinburgh [Bayes Centre](https://bayes-centre.ed.ac.uk/), and online**.
+**Join us for a one-day workshop - "HPC Ready: Developing RSE and HPC skills" - on Thursday 27th March 2025 from 10:00 to 16:00 (GMT/UTC)**, which will take place **in person at the University of Edinburgh [Bayes Centre](https://bayes-centre.ed.ac.uk/), and online**.
 
 Everyone is welcome!
 
