@@ -7,9 +7,9 @@ image_caption: <small>Photo by <a href="https://unsplash.com/@hdbernd">Bernd Dit
 date: 27-11-2024 13:00 GMT
 time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Byte-sized+RSE+-+Containers&iso=20241127T13&p1=136&ah=1&am=30" target="_blank" rel="noopener noreferrer">13:00-14:30 GMT</a>
 instructors: Jeremy Cohen and Steve Crouch
-slides: 
-slides_tutorial: 
-podcast: 
+slides: https://docs.google.com/presentation/d/1wbE5XojkdhQJBl1oDBYcUBceDEyme7RwzaRKEnS8YfM/edit?usp=sharing
+slides_tutorial: https://docs.google.com/presentation/d/1cdA04eUafx2lSZJodtxOK5rpH7dJFAvjEOx-De73RHM/edit?usp=sharing
+podcast: https://codeforthought.buzzsprout.com/1326658/episodes/16133479-en-bytesized-rse-fun-with-containers-simon-li
 ---
 
 <strong>Registration:</strong> <a href="https://forms.gle/ryTFi5Yx9uJdg8bm9"
