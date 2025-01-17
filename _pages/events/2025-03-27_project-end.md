@@ -18,7 +18,7 @@ Everyone is welcome!
 ## Overview
 
 - 🕒 **Thursday 27th March** 2025, **[10:00 - 16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=HPC+Ready%3A+Developing+RSE+and+HPC+skills&iso=20250327T10&p1=1440&ah=6)**
-- 🌍 In person at the University of Edinburgh, Bayes Centre and Online via Zoom
+- 🌍 **In person** at the University of Edinburgh, Bayes Centre and **Online** via Zoom
 
 UNIVERSE-HPC is organising an event to mark the end of the three years of the UNIVERSE-HPC project. We'll have talks from members of the project as well as the wider RSE and HPC training community. This will be a great opportunity to meet and network with members of the community and find out more about the work going on in this area! :sparkles:
 
