@@ -37,7 +37,7 @@ Please read [our event privacy notice](https://www.imperial.ac.uk/media/imperial
 - 14:00 - 14:45 Lightning talks
 - 14:45 - 15:00 Coffee break ☕
 - 15:00 -15:45 Closing Keynote
-- 15:45 - 16:00 Closing remarks & evaluation survey
+- 15:45 - 16:00 Closing remarks
 
 **Code of conduct**: This event takes place under our [Code of Conduct]({{ site.baseurl }}/events/code-of-conduct).
 
