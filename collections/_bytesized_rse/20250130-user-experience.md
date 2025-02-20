@@ -7,9 +7,8 @@ image_caption: <small>Photo by <a href="https://unsplash.com/@nimfardo">Max Shtu
 date: 30-01-2025 13:30 GMT
 time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Byte-sized+RSE%3A+The+value+of+User+Experience+%28UX%29+design&iso=20250130T1330&p1=136&ah=1&am=30" target="_blank" rel="noopener noreferrer">13:30-15:00 GMT</a>
 instructors: Meag Doherty
-slides: 
-slides_tutorial: 
-podcast: 
+slides: https://docs.google.com/presentation/d/1QRniN9886NuyyVyvHfi1iBOP7IEIlO5kZK1PNS2XNfs/edit?usp=sharing
+podcast: https://codeforthought.buzzsprout.com/1326658/episodes/16616872-en-bytesized-rse-design-with-a-capital-d-zihao-lu-and-meag-doherty
 ---
 
 <strong>Registration:</strong> <a href="https://forms.gle/chtox7ov2TZGQn1D6"
