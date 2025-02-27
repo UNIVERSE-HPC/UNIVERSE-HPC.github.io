@@ -7,8 +7,8 @@ image_caption: <small>Photo by <a href="https://unsplash.com/@brandsandpeople">B
 date: 20-02-2025 14:30 GMT
 time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Byte-sized+RSE%3A+Project+Management+with+GitHub&iso=20250220T1430&p1=136&ah=1&am=30" target="_blank" rel="noopener noreferrer">14:30-16:00 GMT</a>
 instructors: Sophia Batchelor
-slides: 
-slides_tutorial: 
+slides: https://github.com/BrainonSilicon/hello_pm/blob/main/slides/20250219_bytesizedrse_workshop.pdf
+slides_tutorial: https://github.com/BrainonSilicon/hello_pm/
 podcast: 
 ---
 
