@@ -9,6 +9,7 @@ sidebar:
 
 This is what other people have to say about us
 
+ - [Collecting and Using Feedback to Improve your Training Pilot](https://www.software.ac.uk/blog/collecting-and-using-feedback-improve-your-training-pilot)
  - [Choosing the Right Delivery Method and Format for Your Training Pilot](https://www.software.ac.uk/blog/choosing-right-delivery-method-and-format-your-training-pilot)
  - [Planning and Preparing for a Training Pilot](https://www.software.ac.uk/blog/planning-and-preparing-training-pilot)
  - [Universe-HPC Training Pilot Explores Hybrid Delivery on The Software Sustainability Institute website](https://www.software.ac.uk/blog/universe-hpc-training-pilot-explores-hybrid-delivery)
