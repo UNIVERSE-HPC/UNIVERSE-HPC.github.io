@@ -7,8 +7,8 @@ image_caption: <small>Photo by <a href="https://unsplash.com/@googledeepmind">Go
 date: 06-03-2025 13:00 GMT
 time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Byte-sized+RSE%3A+S3+E5+-+Green+computing+with+green+algorithms&iso=20250306T01&p1=136&ah=1&am=30" target="_blank" rel="noopener noreferrer">13:00-14:30 GMT</a>
 instructors: Loïc Lannelongue and Kirsty Pringle
-slides: 
-slides_tutorial: 
+slides: https://drive.google.com/file/d/1evA8TrdBOKpd9Uh6JWvHjdxX-ui1ZK0M/view?usp=sharing
+slides_tutorial: https://drive.google.com/file/d/1tMTRqqn0ESDCKoURWyfZHwznl7t3QXVB/view?usp=sharing
 podcast: 
 ---
 
