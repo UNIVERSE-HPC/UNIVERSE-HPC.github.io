@@ -9,7 +9,7 @@ time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=B
 instructors: Sophia Batchelor
 slides: https://github.com/BrainonSilicon/hello_pm/blob/main/slides/20250219_bytesizedrse_workshop.pdf
 slides_tutorial: https://github.com/BrainonSilicon/hello_pm/
-podcast: 
+podcast: https://codeforthought.buzzsprout.com/1326658/episodes/16273876-en-bytesized-rse-project-management-with-github
 ---
 
 <strong>Registration:</strong> <a href="https://forms.gle/rkWHgsZ43kwo7d5Y8"

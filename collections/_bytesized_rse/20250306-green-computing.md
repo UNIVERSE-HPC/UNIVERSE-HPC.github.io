@@ -9,7 +9,7 @@ time-range: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=B
 instructors: Loïc Lannelongue and Kirsty Pringle
 slides: https://drive.google.com/file/d/1evA8TrdBOKpd9Uh6JWvHjdxX-ui1ZK0M/view?usp=sharing
 slides_tutorial: https://drive.google.com/file/d/1tMTRqqn0ESDCKoURWyfZHwznl7t3QXVB/view?usp=sharing
-podcast: 
+podcast: https://codeforthought.buzzsprout.com/1326658/episodes/16791082-en-bytesized-rse-what-s-the-carbon-footprint-of-my-app
 ---
 
 <strong>Registration:</strong> <a href="https://forms.gle/TsVGnxmLCjw7Ru4m6"
