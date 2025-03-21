@@ -26,20 +26,47 @@ Tea, coffee, cake and lunch will be provided!
 
 Please read [our event privacy notice](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/secretariat/public/ICL---Events-privacy-notice---10-October-2018.pdf).
 
-### Provisional agenda
+### Agenda
 
-- 10:00 - 10:30 Meet and Greet ☕
-- 10:30 - 11:15 Introduction and Opening Keynote
+- 10:00 - 10:30 Meet and Greet 🚀
+- 10:30 - 11:15 Opening Keynote: **If learning is a journey, how do we create better maps?** by **Neil Chue Hong** (EPCC, University of Edinburgh)
 - 11:15 - 11:30 Coffee break ☕
-- 11:30 - 12:15 Session on learning pathways
-- 12:15 - 13:00 Break-out rooms: Learning pathway activities
-- 13:00 - 14:00 Lunch break 🍱🥪
-- 14:00 - 14:45 Lightning talks
-- 14:45 - 15:00 Coffee break ☕
-- 15:00 -15:45 Closing Keynote
-- 15:45 - 16:00 Closing remarks
+- 11:30 - 12:15 **Learning pathways session** by **Weronika Filinger** (EPCC, University of Edinburgh) and **Julie Mullen** (MIT)
+- 13:00 - 14:00 Lunch break 🍴
+- 14:00 - 14:45 Lightning talks ⚡ 
+- 14:45 - 15:00 Coffee break 🥐
+- 15:00 - 15:45 Closing Keynote: **RSE traning in Algorithms for Exascale Simulations** by **Jemma Shipton** and **David Acreman** (University of Exeter)
+- 15:45 - 16:00 Closing remarks 👋🏼 
+
+#### Opening Keynote: If learning is a journey, how do we create better maps?
+
+**Speaker**: Neil Chue Hong (EPCC, University of Edinburgh)
+
+**Abstract**:
+Research relies on software and data – but how do we learn the skills to make use of them? Research Software Engineering is developing as a profession, working as part of the research team to improve the software used in research. Research Software Engineers (RSEs) enable good practices in research software and thus make research more open and efficient. Despite the importance of RSEs, the majority of them are self-taught. There is a gap in professional education and cohort network for RSEs: even more so for those specialising in High Performance Computing (HPC).
+
+UNIVERSE-HPC or ‘Understanding and Nurturing an Integrated Vision for Education in RSE and HPC’ has been exploring the different ways in which people from diverse disciplines and backgrounds can be helped to obtain the skills and experience they require to have a successful RSE career. This talk will introduce some of what we have developed, from facilitating personal learning pathways and curriculum development, to flexible training platforms and course delivery choices, to building an engaged community of practitioners. Although UNIVERSE-HPC is finishing, this work is being continued through projects such as CHARTED and DRIFT, as well as through international initiatives.
+
+This will provide clear routes to enable more people from a wide diversity of disciplines and backgrounds to obtain the skills and experience they require to have a successful RSE career: working within centres of excellence, RSE groups, and embedded in research groups.
+
+#### Lightning talks
+
+- David Henty (EPCC, University of Edinburgh) - The Curse of the Matrix
+- Thomas Flynn (Durham University) - Building performance analysis practice through training workshops
+- Jannetta Steyn (Newcastle University) - A Mini HPC For Training - A CarpentriesOffline Project
+- Dmitry Nikolaenko (Durham University) - Enhancing Training Course Development Through Software Engineering Best Practices: A Collaborative Approach
+- Kirsty Pringle (EPCC, University of Edinburgh) - Understanding the environmental impact of research software
+- Andy Turner (EPCC, University of Edinburgh) - Training to enable reduction in GHG emissions from HPC
+
+#### Closing Keynote: RSE traning in Algorithms for Exascale Simulations
+
+**Speakers**: Jemma Shipton and David Acreman (University of Exeter)
+
+**Abstract**:
+We will present our experience of running the ExCALIBUR RSE training project in Algorithms for Exascale Simulations. We will cover our motivation for initiating this project and the lessons learnt from the workshops and Summer school that we delivered.
 
 **Code of conduct**: This event takes place under our [Code of Conduct]({{ site.baseurl }}/events/code-of-conduct).
+
 
 #### Join our email list
 
