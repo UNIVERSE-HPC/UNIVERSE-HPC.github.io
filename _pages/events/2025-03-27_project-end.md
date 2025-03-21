@@ -31,9 +31,9 @@ Please read [our event privacy notice](https://www.imperial.ac.uk/media/imperial
 - 10:00 - 10:30 Meet and Greet 🚀
 - 10:30 - 11:15 Opening Keynote: **If learning is a journey, how do we create better maps?** by **Neil Chue Hong** (EPCC, University of Edinburgh)
 - 11:15 - 11:30 Coffee break ☕
-- 11:30 - 12:15 **Learning pathways session** by **Weronika Filinger** (EPCC, University of Edinburgh) and **Julie Mullen** (MIT)
+- 11:30 - 13:00 **Learning pathways session** by **Weronika Filinger** (EPCC, University of Edinburgh) and **Julie Mullen** (MIT)
 - 13:00 - 14:00 Lunch break 🍴
-- 14:00 - 14:45 Lightning talks ⚡ 
+- 14:00 - 14:45 [Lightning talks]({{ site.baseurl }}/events/2025-03-27_project-end/#lightning-talks) ⚡ 
 - 14:45 - 15:00 Coffee break 🥐
 - 15:00 - 15:45 Closing Keynote: **RSE traning in Algorithms for Exascale Simulations** by **Jemma Shipton** and **David Acreman** (University of Exeter)
 - 15:45 - 16:00 Closing remarks 👋🏼 
