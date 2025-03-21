@@ -35,7 +35,7 @@ Please read [our event privacy notice](https://www.imperial.ac.uk/media/imperial
 - 13:00 - 14:00 Lunch break 🍴
 - 14:00 - 14:45 [Lightning talks]({{ site.baseurl }}/events/2025-03-27_project-end/#lightning-talks) ⚡ 
 - 14:45 - 15:00 Coffee break 🥐
-- 15:00 - 15:45 Closing Keynote: **RSE traning in Algorithms for Exascale Simulations** by **Jemma Shipton** and **David Acreman** (University of Exeter)
+- 15:00 - 15:45 Closing Keynote: **RSE traning in Algorithms for Exascale Simulations** by **Jemma Shipton** (University of Exeter) and **David Acreman** (Hewlett Packard Enterprise)
 - 15:45 - 16:00 Closing remarks 👋🏼 
 
 #### Opening Keynote: If learning is a journey, how do we create better maps?
@@ -60,7 +60,7 @@ This will provide clear routes to enable more people from a wide diversity of di
 
 #### Closing Keynote: RSE traning in Algorithms for Exascale Simulations
 
-**Speakers**: Jemma Shipton and David Acreman (University of Exeter)
+**Speakers**: Jemma Shipton (University of Exeter) and David Acreman (Hewlett Packard Enterprise)
 
 **Abstract**:
 We will present our experience of running the ExCALIBUR RSE training project in Algorithms for Exascale Simulations. We will cover our motivation for initiating this project and the lessons learnt from the workshops and Summer school that we delivered.
