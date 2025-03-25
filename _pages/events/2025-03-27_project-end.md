@@ -35,7 +35,7 @@ Please read [our event privacy notice](https://www.imperial.ac.uk/media/imperial
 - 13:00 - 14:00 Lunch break 🍴
 - 14:00 - 14:45 [Lightning talks]({{ site.baseurl }}/events/2025-03-27_project-end/#lightning-talks) ⚡ 
 - 14:45 - 15:00 Coffee break 🥐
-- 15:00 - 15:45 Closing Keynote: **RSE traning in Algorithms for Exascale Simulations** by **Jemma Shipton** (University of Exeter) and **David Acreman** (Hewlett Packard Enterprise)
+- 15:00 - 15:45 Closing Keynote: **RSE training in Algorithms for Exascale Simulations** by **Jemma Shipton** (University of Exeter) and **David Acreman** (Hewlett Packard Enterprise)
 - 15:45 - 16:00 Closing remarks 👋🏼 
 
 #### Opening Keynote: If learning is a journey, how do we create better maps?
@@ -58,7 +58,7 @@ This will provide clear routes to enable more people from a wide diversity of di
 - Kirsty Pringle (EPCC, University of Edinburgh) - Understanding the environmental impact of research software
 - Andy Turner (EPCC, University of Edinburgh) - Training to enable reduction in GHG emissions from HPC
 
-#### Closing Keynote: RSE traning in Algorithms for Exascale Simulations
+#### Closing Keynote: RSE training in Algorithms for Exascale Simulations
 
 **Speakers**: Jemma Shipton (University of Exeter) and David Acreman (Hewlett Packard Enterprise)
 
