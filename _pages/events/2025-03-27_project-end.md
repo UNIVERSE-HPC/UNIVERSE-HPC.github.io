@@ -49,6 +49,13 @@ UNIVERSE-HPC or ‘Understanding and Nurturing an Integrated Vision for Educatio
 
 This will provide clear routes to enable more people from a wide diversity of disciplines and backgrounds to obtain the skills and experience they require to have a successful RSE career: working within centres of excellence, RSE groups, and embedded in research groups.
 
+#### Learning pathways
+
+**Speakers**: Weronika Fillinger (EPCC, University of Edinburgh) and Julie Mullen (MIT)
+
+**Abstract**:
+This session is focused on the learning pathways approach to professional skill development. It will start with an introduction to learning pathways and an overview of the related collaborative efforts led by the UNIVERSE-HPC over the last couple of years. More than half of the session will be spent on an interactive exercise, in which the participants will attempt to decompose a task into skills required to perform it.  We hope those decompositions will bring us one step closer to creating a training ecosystem that can support the learning pathways approach as a more flexible option for professional skills development.
+
 #### Lightning talks
 
 - David Henty (EPCC, University of Edinburgh) - The Curse of the Matrix
