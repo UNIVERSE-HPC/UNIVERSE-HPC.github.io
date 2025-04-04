@@ -14,3 +14,4 @@ sidebar:
  - [Training Material]({{ site.baseurl }}/resources/training-material/)
  - [News and Blog Posts]({{ site.baseurl }}/resources/news-blogs/)
  - [Videos]({{ site.baseurl }}/resources/videos/)
+ - [Learning Pathways]({{ site.baseurl }}/about/pathways/)
